@@ -6,6 +6,7 @@ Projekte und Rechnungswesen verwalten können.
 Für Festangestellte ist es ein Mitarbeiterportal. Für Freiberufler ist es ein Freelancerportal.
 Für Genehmiger ist es ein Genehmigungsportal und für Buchhalter ist es ein Buchhaltungsportal. 
 
+
 ## Funktionen
 
 Hier nachfolgend sind die wichtigsten Funktionen von ZEIT.IO aufgelistet:
@@ -27,7 +28,8 @@ Hier nachfolgend sind die wichtigsten Funktionen von ZEIT.IO aufgelistet:
 ## Registrierung & Anmeldung
 
 Prinzipiell kann sich jeder kostenlos bei ZEIT.IO registrieren und sich damit einen Account anlegen.
-Für Einzelpersonen wie Mitarbeiter, Freiberufler und Genehmiger ist die Nutzung kostenlos.   
+Für Einzelpersonen wie Mitarbeiter, Freiberufler und Genehmiger ist die Nutzung kostenlos. Kostepflichtig ist
+ist die Nutzung für Firmen. Firmen können sich kostenlos registrieren und die Plattform 30 Tage lang testen.
 
 ## Benutzerverwaltung
  
@@ -38,11 +40,45 @@ erneut angelegt werden. Das führt dazu das ein und die selbe Person mehrere Ben
 Organisationen haben muss.<br/>
 **In ZEIT.IO ist das nicht so!**
 
-In ZEIT.IO wird ein Benutzer nur einmal angelegt und kann dann in verschiedenen Organisationen tätig werden. 
+In ZEIT.IO wird ein Benutzer nur einmal angelegt und kann dann in verschiedenen Organisationen Mitglied sein. 
 Die Benutzerverwaltung von ZEIT.IO ähnelt der von Facebook oder LinkedIn. Jeder Benutzer hat ein Profil und 
 verwaltet selber seine Stammdaten! Ein Benutzer kann Mitglied in verschiedenen Organisationen sein und in jeder
 Organisation unterschiedliche Rollen/Rechte haben.
 
+## Mandantenfähigkeit
+
+ZEIT.IO ist mandantenfähig. Das bedeutet, dass eine Instanz von ZEIT.IO von mehreren Organisationen genutzt werden kann.
+Und eine Person kann Mitglied in mehreren Organisationen sein. Über den Kontext-Switch kann der Benutzer zwischen
+den verschiedenen Organisationen wechseln.
+
 ## Kontexte
+
+In ZEIT.IO gibt es verschiedene Kontexte. Ein Kontext ist eine Art "Sicht" auf die Daten. Unterschiedliche 
+Personen haben unterrschiedliche Rollen und brauchen deshalb auch ganz unterschiedliche Hautpmenüs und 
+Funktionen. Ein festangestellter Mitarbeiter hat in ZEIT.IO z.B. ein ganz anderes Hauptmenü als ein Freiberufler. 
+Ein festangestellter Mitarbeiter hat z.B. im Hauptmenü, Punkte wie "Urlaube" und "Krankmeldungen", was für 
+einen Freiberufler nicht relevant ist. Und ein Freiberufler dagegen hat im Hauptmenü z.B. Punkte wie "Kunden" und 
+"Rechnungen", was wiederum für einen festangestellten Mitarbeiter nicht relevant ist. 
+
+Folgende Kontexte gibt es in ZEIT.IO:
+
+* Freiberufler Kontext
+* Mitarbeiter Kontext
+* Genehmiger Kontext
+* Organisations Kontext
+
+Der Context-Switch ist ein Dropdown-Menü in der Navigation, mit dem Benutzer zwischen verschiedenen Kontexten 
+wechseln können. Wenn man nur einen Kontext hat, dann wird das Dropdown-Menü nicht angezeigt. Wenn man mehrere 
+Kontexte hat, dann wird das Dropdown-Menü angezeigt. Hier ein Beispiel wie es aussehen kann wenn man vier Kontexte hat:
+
+![Context Switch](img/context-switch-example.png){ width=50% }
+
+Die Kontexte "Selbständigkeit" und "Genehmiger Modus" tauchen immer nur einmal auf. Für Festanstellungen und 
+Organisationen kann man durchaus mehrere Einträge haben. Wenn man z.B. in zwei verschiedenen Organisationen eine 
+aktive Mitgliedschaft hat, dann wird man unter "Organisationen" zwei Einträge haben und kann damit dann zwischen den
+Organisationen wechseln. Und wenn man eine Festanstellung und einen "mini-Job" hat, dann hat man dementsprechend 
+zwei Einträge unter "Festanstellungen" und kann damit dann zwischen den Festanstellungen wechseln.
+
+
 
  

@@ -1,27 +1,50 @@
 site_name: ZEIT.IO Dokumentation
 site_url: https://docs-de.zeit.io/
+
 nav:
   - common:
     - 'Start': 'index.md'
     - 'Start': 'index.en.md'
   - employee_context:
-    - common: 'mitarbeiter/common.md'
-    - common: 'mitarbeiter/common.en.md'
+    - common: 'mitarbeiter/index.md'
+    - common: 'mitarbeiter/index.en.md'
   - freelancer_context:
-    - 'Start': 'freiberufler/start.md'
-    - 'Start2': 'freiberufler/start2.md'
+    - 'common': 'freiberufler/index.md'
+    - 'common': 'freiberufler/index.en.md'
   - approver_context:
-    - 'Start': 'genehmiger/start.md'
-    - 'Start2': 'genehmiger/start2.md'
+    - 'common': 'genehmiger/index.md'
+    - 'common': 'genehmiger/index.en.md'
   - organisations_context:
-    - 'Start': 'organisationen/start.md'
-    - 'Start2': 'organisationen/start2.md'
+    - 'common': 'organisationen/index.md'
+    - 'common': 'organisationen/index.en.md'
+
 theme:
   name: material
   language: de
-  palette:
-    primary: green
   custom_dir: "overrides"
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 
 plugins:
   - search
