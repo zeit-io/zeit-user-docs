@@ -30,8 +30,11 @@ copyright: Copyright &copy; 2024 REIZ Solutions GmbH
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/zeit-io
+      link: https://github.com/zeit-io/zeit-user-docs
       name: GitHub
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCStqDRc35lVJ_7Y2RLdBR3g/videos
+      name: YouTube
 
 theme:
   name: material
