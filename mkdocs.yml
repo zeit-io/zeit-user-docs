@@ -17,11 +17,25 @@ nav:
   - organisations_context:
     - 'common': 'organisationen/index.md'
     - 'common': 'organisationen/index.en.md'
+    - 'approver': 'organisationen/approver.md'
+    - 'approver': 'organisationen/approver.en.md'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+copyright: Copyright &copy; 2024 REIZ Solutions GmbH
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zeit-io
+      name: GitHub
 
 theme:
   name: material
   language: de
-  custom_dir: "overrides"
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -64,6 +78,7 @@ plugins:
           approver_context: "Genehmiger Kontext"
           organisations_context: "Organisations Kontext"
           page title: "ZEIT.IO Dokumentation"
+          approver: "Genehmiger"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -71,5 +86,6 @@ plugins:
           approver_context: "Approver context"
           organisations_context: "Organisations context"
           page title: "ZEIT.IO Documentation"
+          approver: "Approver"
 
 
