@@ -16,7 +16,6 @@ jobs:
 
       - name: Build
         id: build-image
-        env:
         run: |
           pip install mkdocs mkdocs-material mkdocs-i18n;
           mkdocs build;
