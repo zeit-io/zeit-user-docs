@@ -6,9 +6,9 @@ dass nur genehmigte Zeiten und Ausgaben in Rechnung gestellt werden können. Ein
 zur Rechnungserstellung ist das Gutschriftverfahren.
 
 !!! Info
-    Das Gutschriftverfahren stellt eine spezielle Art der Abrechnung dar von Lieferungen und Leistungen zwischen
-    einem Kunden und seinem Lieferant, bei der die Abrechnungslast nicht vom Lieferanten, sondern vom Kunden selbst
-    getragen wird. **Salopp gesagt ist eine Gutschrift eine umgekehrte Rechnung und wird für genehmigte Leistungen
+    Das Gutschriftverfahren stellt eine spezielle Art der Abrechnung von Lieferungen und Leistungen zwischen
+    einem Kunden und seinem Lieferant dar, bei der die Abrechnungslast nicht vom Lieferanten, sondern vom Kunden selbst
+    getragen wird. **Einfach gesagt ist eine Gutschrift eine umgekehrte Rechnung und wird für genehmigte Leistungen
     ausgestellt.**
 
 ## Wie funktioniert das Gutschriftverfahren?
@@ -37,7 +37,7 @@ zu Ihrem Vertrag.
 
 Wenn Sie angemeldet sind, dann klicken Sie im Hauptmenü, oben links, auf "Verträge".
 Dann klicken Sie auf den Vertrag, für den Sie das Gutschriftverfahren konfigurieren wollen. In der
-Detailansicht des Vertrags, klicken Sie auf den Reiter "Gutschriftverfahren". Hier können Sie dann die
+Detailansicht des Vertrags klicken Sie auf den Reiter "Gutschriftverfahren". Hier können Sie dann die
 Einstellungen für das Gutschriftsverfahren vornehmen. Folgende Punkte können Sie konfigurieren:
 
 - **Rechtsform & Name**: Sie können Ihre Rechtsform und den offiziellen Namen Ihrer Unternehmung hinterlegen.
@@ -51,10 +51,11 @@ Alle diese Informationen werden dann verwendet, um die nächste Gutschrift zu er
 
 ## FAQs
 
-### Wie kann ich den Nummernkreis für Gutschriften konfigurieren?
+### Wie kann ich die Rechnungsnummer für Gutschriften konfigurieren?
 
-Sie als Lieferant (Freiberufler/Selbständiger) können den Nummernkreis für Gutschriften nicht konfigurieren. 
-Der Nummernkreis für Gutschriften wird von der Organisation festgelegt, welche die Gutschrift ausstellt.
+Sie als Lieferant (Freiberufler/Selbständiger) können die Rechnungsnummer (Nummernkreis) für Gutschriften nicht 
+konfigurieren. die Rechnungsnummer für Gutschriften wird von der Organisation festgelegt, welche die Gutschrift 
+ausstellt.
 
 ### Ist das Gutschriftverfahren ein Hinweis auf scheinselbständigkeit?
 

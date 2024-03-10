@@ -1,5 +1,5 @@
 site_name: ZEIT.IO Dokumentation
-site_url: https://docs-de.zeit.io/
+site_url: https://docs.zeit.io/
 
 nav:
   - common:
@@ -15,6 +15,10 @@ nav:
     - 'onboarding': 'freiberufler/onboarding.en.md'
     - 'gutschriftverfahren': 'freiberufler/gutschriftverfahren.md'
     - 'gutschriftverfahren': 'freiberufler/gutschriftverfahren.en.md'
+    - 'projects': 'freiberufler/projekte.md'
+    - 'projects': 'freiberufler/projekte.en.md'
+    - 'time_tracking': 'freiberufler/zeiterfassung.md'
+    - 'time_tracking': 'freiberufler/zeiterfassung.en.md'
   - approver_context:
     - 'common': 'genehmiger/index.md'
     - 'common': 'genehmiger/index.en.md'
@@ -88,6 +92,8 @@ plugins:
           approver: "Genehmiger"
           onboarding: "Onboarding"
           gutschriftverfahren: "Gutschriftverfahren"
+          projects: "Projekte"
+          time_tracking: "Zeiterfassung"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -98,5 +104,7 @@ plugins:
           approver: "Approver"
           onboarding: "Onboarding"
           gutschriftverfahren: "Credit note procedure"
+          projects: "Projects"
+          time_tracking: "Time tracking"
 
 

@@ -1,102 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs-de.zeit.io/</loc>
+         <loc>https://docs.zeit.io/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/about/</loc>
+         <loc>https://docs.zeit.io/about/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/contact/</loc>
+         <loc>https://docs.zeit.io/contact/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/index.en/</loc>
+         <loc>https://docs.zeit.io/index.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/freiberufler/</loc>
+         <loc>https://docs.zeit.io/freiberufler/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/freiberufler/gutschriftverfahren.en/</loc>
+         <loc>https://docs.zeit.io/freiberufler/gutschriftverfahren.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/freiberufler/gutschriftverfahren/</loc>
+         <loc>https://docs.zeit.io/freiberufler/gutschriftverfahren/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/freiberufler/index.en/</loc>
+         <loc>https://docs.zeit.io/freiberufler/index.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/freiberufler/onboarding.en/</loc>
+         <loc>https://docs.zeit.io/freiberufler/onboarding.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/freiberufler/onboarding/</loc>
+         <loc>https://docs.zeit.io/freiberufler/onboarding/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/genehmiger/</loc>
+         <loc>https://docs.zeit.io/freiberufler/projekte.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/genehmiger/index.en/</loc>
+         <loc>https://docs.zeit.io/freiberufler/projekte/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/mitarbeiter/</loc>
+         <loc>https://docs.zeit.io/freiberufler/zeiterfassung.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/mitarbeiter/index.en/</loc>
+         <loc>https://docs.zeit.io/freiberufler/zeiterfassung/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/mitarbeiter/start/</loc>
+         <loc>https://docs.zeit.io/genehmiger/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/mitarbeiter/start2/</loc>
+         <loc>https://docs.zeit.io/genehmiger/index.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/organisationen/</loc>
+         <loc>https://docs.zeit.io/mitarbeiter/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/organisationen/approver.en/</loc>
+         <loc>https://docs.zeit.io/mitarbeiter/index.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/organisationen/approver/</loc>
+         <loc>https://docs.zeit.io/mitarbeiter/start/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs-de.zeit.io/organisationen/index.en/</loc>
+         <loc>https://docs.zeit.io/mitarbeiter/start2/</loc>
+         <lastmod>2024-03-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/organisationen/</loc>
+         <lastmod>2024-03-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/organisationen/approver.en/</loc>
+         <lastmod>2024-03-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/organisationen/approver/</loc>
+         <lastmod>2024-03-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/organisationen/index.en/</loc>
          <lastmod>2024-03-10</lastmod>
          <changefreq>daily</changefreq>
     </url>

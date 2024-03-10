@@ -13,6 +13,7 @@ Im Freiberufler Kontext können Sie:
  - Spesen/Ausgaben erfassen 
  - Rechnungen erstellen und versenden
  - Vertragsangebote von ZEIT.IO Organisationen annehmen 
+ - Genehmigung anfordern für erfasste Zeiten und Ausgaben
 
 Mit diesen Funktionen können Sie Ihr Geschäft als Freiberufler oder Selbstständiger organisieren und verwalten.
 
@@ -25,12 +26,3 @@ Mit diesen Funktionen können Sie Ihr Geschäft als Freiberufler oder Selbststä
 
 Wenn Sie von einer Organisation eingeladen wurden zu ZEIT.IO, dann schauen Sie sich bitte die Dokumentation
 für das [Onboarding](/freiberufler/onboarding) an.
-
-
-
-
-
-
-
-
-

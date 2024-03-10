@@ -32,7 +32,7 @@ verbunden. Ein Vertrag regelt die Zusammenarbeit zwischen zwei Parteien und enh�
 Wenn Sie das Vertragsangebot einsehen wollen, dann müssen Sie sich bei ZEIT.IO registrieren. Da es sich hierbei
 um sensible Daten handelt, ist das Vertragsangebot nur im Login-Bereich einsehbar. Dafür klicken Sie bitte auf den
 "Registrieren" Button in der E-Mail. In dem Formular auf der folgenden Seite sollten dann schon ihr Vorname, Nachname 
-und E-Mail vorbelegt sein und Sie müssen nur noch ein Passwort wählen und die AGBs akzeptieren. Hier ein Beispiel für 
+und E-Mail vorbelegt sein, dann müssen Sie nur noch ein Passwort wählen und die AGBs akzeptieren. Hier ein Beispiel für 
 die Registrierungsseite:
 
 ![Registrierungsseite](../img/signup-de.png){ width=80% }
@@ -44,7 +44,7 @@ auch wirklich Ihnen gehört.
 Wenn Sie die E-Mail-Adresse auf dieser Seite nicht ändern und den Registrierungsprozess abschließen, dann werden Sie 
 automatisch eingeloggt und auf die Welcome-Seite weitergeleitet. Diese sieht z.B. so aus:
 
-![Willkommensseite](../img/welcome-de.png){ width=100% }
+![Willkommensseite](../img/welcome-de.png)
 
 Auf der Willkommensseite können Sie Ihre bevorzugte Sprache, Zeitzone, Datumsformat und Land auswählen.
 Diese Einstellungen können Sie später auch noch ändern. Wenn Sie auf der Seite auf "Speichern" klicken, dann
@@ -66,9 +66,9 @@ Hier ein Beispiel:
 
 ![Vertragsangebot](../img/context-freelance/contract-offering-de.png){ width=100% }
 
-Wenn man auf der Seite weiter nach unten scrollt, dann folgt ein Formular, mit dessen Hilfe man das Angebot entweder 
-ablehnen oder annehmen kann. Wenn man das Angebot annehmen will, dann müssen weitere Angaben zu den Stammdaten 
-gemacht werden. So müssen z.B. die eigene Rechtsform, Adresse, Steuernummer und die Bankverbindung angegeben werden. 
+Wenn Sie auf der Seite weiter nach unten scrollen, dann folgt ein Formular, mit dessen Hilfe Sie das Angebot entweder 
+ablehnen oder annehmen können. Wenn Sie das Angebot annehmen wollen, dann müssen Sie weitere Angaben zu Ihren Stammdaten 
+machen. So müssen z.B. die eigene Rechtsform, Adresse, Steuernummer und die Bankverbindung angegeben werden. 
 Hier ein Beispiel:
 
 ![Vertragsangebot annehmen](../img/context-freelance/contract-offering-form-de.png)
@@ -80,4 +80,9 @@ können Zeiten und Ausgaben auf das Projekt buchen.
 
 Die folgenden Themen könnten für Sie auch interessant sein:
 
- - [Gutschriftverfahren](/freiberufler/gutschriftverfahren): Was ist das Gutschriftverfahren und wie funktioniert es?
+- [Gutschriftverfahren](/freiberufler/gutschriftverfahren): Was ist das Gutschriftverfahren und wie funktioniert es?
+- [Projekte](/freiberufler/projekte): Wie kann ich Projektdetails einsehen?
+- Zeiterfassung:
+    - Stundenweise: In Ihrem Vertrag ist ein Stundensatz hinterlegt und Sie erfassen Ihre Zeiten stundenweise.  
+    - Tagesweise: In Ihrem Vertrag ist ein Tagessatz hinterlegt und Sie erfassen Ihre Zeiten tagesweise. 
+   
