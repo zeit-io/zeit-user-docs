@@ -9,8 +9,12 @@ nav:
     - common: 'mitarbeiter/index.md'
     - common: 'mitarbeiter/index.en.md'
   - freelancer_context:
-    - 'common': 'freiberufler/index.md'
-    - 'common': 'freiberufler/index.en.md'
+    - 'Start': 'freiberufler/index.md'
+    - 'Start': 'freiberufler/index.en.md'
+    - 'onboarding': 'freiberufler/onboarding.md'
+    - 'onboarding': 'freiberufler/onboarding.en.md'
+    - 'gutschriftverfahren': 'freiberufler/gutschriftverfahren.md'
+    - 'gutschriftverfahren': 'freiberufler/gutschriftverfahren.en.md'
   - approver_context:
     - 'common': 'genehmiger/index.md'
     - 'common': 'genehmiger/index.en.md'
@@ -82,6 +86,8 @@ plugins:
           organisations_context: "Organisations Kontext"
           page title: "ZEIT.IO Dokumentation"
           approver: "Genehmiger"
+          onboarding: "Onboarding"
+          gutschriftverfahren: "Gutschriftverfahren"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -90,5 +96,7 @@ plugins:
           organisations_context: "Organisations context"
           page title: "ZEIT.IO Documentation"
           approver: "Approver"
+          onboarding: "Onboarding"
+          gutschriftverfahren: "Credit note procedure"
 
 
