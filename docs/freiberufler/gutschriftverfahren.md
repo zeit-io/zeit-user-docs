@@ -13,11 +13,15 @@ zur Rechnungserstellung ist das Gutschriftverfahren.
 
 ## Wie funktioniert das Gutschriftverfahren?
 
-Nachdem Sie Ihre Zeiten und Ausgaben auf ein Projekt gebucht haben, beantragen Sie hierfür eine Genehmigung. 
+Nachdem Sie Ihre Zeiten und/oder Ausgaben auf ein Projekt gebucht haben, beantragen Sie hierfür eine Genehmigung. 
 Wenn Ihr eingereichtes Timesheet (bzw. Ausgabe) genehmigt wird, dann wird in der Regel automatisch eine 
 Gutschrift ausgestellt. Die Gutschrift wird von der Organisation ausgestellt, die das Projekt betreibt. 
 Die Gutschrift enthält die gleichen Informationen wie eine Rechnung, nur dass die Abrechnungslast nicht von Ihnen, 
 sondern von der Organisation getragen wird.
+
+Die Gutschrift können Sie dann in Ihrer Buchhaltung verbuchen, so wie Sie es auch mit einer Rechnung machen würden.
+Oder Sie geben die Gutschrift direkt an Ihren Steuerberater weiter.
+Sie müssen dann selber aber keine Rechnung mehr schreiben und versenden.
 
 ## Vorteile des Gutschriftverfahrens
 
@@ -56,6 +60,19 @@ Alle diese Informationen werden dann verwendet, um die nächste Gutschrift zu er
 Sie als Lieferant (Freiberufler/Selbständiger) können die Rechnungsnummer (Nummernkreis) für Gutschriften nicht 
 konfigurieren. die Rechnungsnummer für Gutschriften wird von der Organisation festgelegt, welche die Gutschrift 
 ausstellt.
+
+### Wo kann ich "Reverse Charge" für Gutschriften konfigurieren?
+
+Die "Reverse Charge" Regelung ist eine spezielle Steuerregelung, die in der EU für grenzüberschreitende
+Dienstleistungen gilt. Die "Reverse Charge" Regelung besagt, dass der Leistungsempfänger die Umsatzsteuer
+schuldet, anstatt des Leistenden. 
+
+Das "Reverse Charge" Verfahren muss für Gutschriften nicht speziell konfiguriert werden. 
+ZEIT.IO erkennt automatisch, ob die "Reverse Charge" Regelung für eine Gutschrift angewendet werden muss,
+und setzt die Umsatzsteuer, sowie den Hinweis auf "Reverse Charge", entsprechend. 
+
+Der Erkennung von "Reverse Charge" basiert auf den Angaben in Ihren Stammdaten. Deswegen ist es sehr wichtig, dass
+Sie Ihre Stammdaten korrekt und vollständig hinterlegt haben.
 
 ### Ist das Gutschriftverfahren ein Hinweis auf scheinselbständigkeit?
 
