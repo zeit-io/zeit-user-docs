@@ -19,6 +19,8 @@ Gutschrift ausgestellt. Die Gutschrift wird von der Organisation ausgestellt, di
 Die Gutschrift enthält die gleichen Informationen wie eine Rechnung, nur dass die Abrechnungslast nicht von Ihnen, 
 sondern von der Organisation getragen wird.
 
+![Gutschriftverfahren auf ZEIT.IO](../img/context-freelance/cn-1-de.png)
+
 Die Gutschrift können Sie dann in Ihrer Buchhaltung verbuchen, so wie Sie es auch mit einer Rechnung machen würden.
 Oder Sie geben die Gutschrift direkt an Ihren Steuerberater weiter.
 Sie müssen dann selber aber keine Rechnung mehr schreiben und versenden.
