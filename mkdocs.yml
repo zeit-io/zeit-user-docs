@@ -3,34 +3,34 @@ site_url: https://docs.zeit.io/
 
 nav:
   - common:
-    - 'Start': 'index.md'
-    - 'Start': 'index.en.md'
+    - Start: 'index.md'
+    - Start: 'index.en.md'
   - employee_context:
     - common: 'mitarbeiter/index.md'
     - common: 'mitarbeiter/index.en.md'
     - vacations: 'mitarbeiter/urlaube.md'
     - vacations: 'mitarbeiter/urlaube.en.md'
   - freelancer_context:
-    - 'Start': 'freiberufler/index.md'
-    - 'Start': 'freiberufler/index.en.md'
-    - 'onboarding': 'freiberufler/onboarding.md'
-    - 'onboarding': 'freiberufler/onboarding.en.md'
-    - 'gutschriftverfahren': 'freiberufler/gutschriftverfahren.md'
-    - 'gutschriftverfahren': 'freiberufler/gutschriftverfahren.en.md'
-    - 'projects': 'freiberufler/projekte.md'
-    - 'projects': 'freiberufler/projekte.en.md'
-    - 'time_tracking': 'freiberufler/zeiterfassung.md'
-    - 'time_tracking': 'freiberufler/zeiterfassung.en.md'
+    - Start: 'freiberufler/index.md'
+    - Start: 'freiberufler/index.en.md'
+    - onboarding: 'freiberufler/onboarding.md'
+    - onboarding: 'freiberufler/onboarding.en.md'
+    - gutschriftverfahren: 'freiberufler/gutschriftverfahren.md'
+    - gutschriftverfahren: 'freiberufler/gutschriftverfahren.en.md'
+    - projects: 'freiberufler/projekte.md'
+    - projects: 'freiberufler/projekte.en.md'
+    - time_tracking: 'freiberufler/zeiterfassung.md'
+    - time_tracking: 'freiberufler/zeiterfassung.en.md'
   - approver_context:
-    - 'common': 'genehmiger/index.md'
-    - 'common': 'genehmiger/index.en.md'
+    - common: 'genehmiger/index.md'
+    - common: 'genehmiger/index.en.md'
   - organisations_context:
-    - 'common': 'organisationen/index.md'
-    - 'common': 'organisationen/index.en.md'
-    - 'approver': 'organisationen/approver.md'
-    - 'approver': 'organisationen/approver.en.md'
-    - empployee_contracts: 'organisationen/employee_contracts.md'
-    - empployee_contracts: 'organisationen/employee_contracts.en.md'
+    - common: 'organisationen/index.md'
+    - common: 'organisationen/index.en.md'
+    - approver: 'organisationen/genehmiger.md'
+    - approver: 'organisationen/genehmiger.en.md'
+    - empployee_contracts: 'organisationen/mitarbeiter_vertraege.md'
+    - empployee_contracts: 'organisationen/mitarbeiter_vertraege.en.md'
 
 markdown_extensions:
   - admonition
@@ -114,5 +114,3 @@ plugins:
           time_tracking: "Time tracking"
           vacations: "Vacations"
           empployee_contracts: "Employee contracts"
-
-
