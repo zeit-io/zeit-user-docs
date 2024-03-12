@@ -49,6 +49,7 @@ Urlaub automatisch genehmigt.
 Rein rechtlich gesehen gibt es in Deutschland keine halben Urlaubstage. Den das würde dem Ziel der Erholung
 entgegenstehen. Allerdings können Arbeitgeber und Arbeitnehmer, im Arbeitsvertrag vereinbaren, dass halbe Urlaubstage
 genommen werden können.
+
 Ob Ihnen diese Option in ZEIT.IO zur Verfügung steht, hängt von der Konfiguration Ihres Vertrags ab. Wenn Sie
 der Meinung sind dass Ihnen halbe Urlaubstage zustehen, dann wenden Sie sich bitte an Ihren Vorgesetzten oder
 an die Personalabteilung. Diese können die Option auf halbe Urlaubstage in Ihrem Vertrag aktivieren.

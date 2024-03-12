@@ -41,6 +41,7 @@ If the vacation request approval process is not activated in your contract, then
 
 Legally speaking, there are no half vacation days in Germany. Because that would be contrary to the goal of relaxation.
 However, employers and employees can agree in the employment contract that half vacation days can be taken.
+
 Whether this option is available to you in ZEIT.IO depends on the configuration of your contract. If you believe that 
 you are entitled to half vacation days, please contact your supervisor or the HR department. They can activate the 
 option for half vacation days in your contract.
