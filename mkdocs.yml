@@ -8,6 +8,8 @@ nav:
   - employee_context:
     - common: 'mitarbeiter/index.md'
     - common: 'mitarbeiter/index.en.md'
+    - vacations: 'mitarbeiter/urlaube.md'
+    - vacations: 'mitarbeiter/urlaube.en.md'
   - freelancer_context:
     - 'Start': 'freiberufler/index.md'
     - 'Start': 'freiberufler/index.en.md'
@@ -94,6 +96,7 @@ plugins:
           gutschriftverfahren: "Gutschriftverfahren"
           projects: "Projekte"
           time_tracking: "Zeiterfassung"
+          vacations: "Urlaube"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -106,5 +109,6 @@ plugins:
           gutschriftverfahren: "Credit note procedure"
           projects: "Projects"
           time_tracking: "Time tracking"
+          vacations: "Vacations"
 
 
