@@ -116,27 +116,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.zeit.io/organisationen/approver.en/</loc>
+         <loc>https://docs.zeit.io/organisationen/genehmiger.en/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.zeit.io/organisationen/approver/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.zeit.io/organisationen/employee_contracts.en/</loc>
-         <lastmod>2024-03-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.zeit.io/organisationen/employee_contracts/</loc>
+         <loc>https://docs.zeit.io/organisationen/genehmiger/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.zeit.io/organisationen/index.en/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/organisationen/mitarbeiter_vertraege.en/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/organisationen/mitarbeiter_vertraege/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
