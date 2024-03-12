@@ -26,6 +26,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.zeit.io/freiberufler/genehmigungsverfahren.en/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/freiberufler/genehmigungsverfahren/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.zeit.io/freiberufler/gutschriftverfahren.en/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
@@ -107,6 +117,16 @@
     </url>
     <url>
          <loc>https://docs.zeit.io/mitarbeiter/urlaube/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/mitarbeiter/zeiterfassung.en/</loc>
+         <lastmod>2024-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/mitarbeiter/zeiterfassung/</loc>
          <lastmod>2024-03-12</lastmod>
          <changefreq>daily</changefreq>
     </url>

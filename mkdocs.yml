@@ -8,6 +8,8 @@ nav:
   - employee_context:
     - common: 'mitarbeiter/index.md'
     - common: 'mitarbeiter/index.en.md'
+    - time_tracking: 'mitarbeiter/zeiterfassung.md'
+    - time_tracking: 'mitarbeiter/zeiterfassung.en.md'
     - vacations: 'mitarbeiter/urlaube.md'
     - vacations: 'mitarbeiter/urlaube.en.md'
   - freelancer_context:
