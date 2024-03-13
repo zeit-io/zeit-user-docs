@@ -4,7 +4,7 @@
 
 ## FAQs
 
-### Wiso sind Buchungen nach einer bestimmten Zeit nicht mehr bearbeitbar? 
+### Wieso sind Buchungen nach einer bestimmten Zeit nicht mehr bearbeitbar? 
 
 In ZEIT.IO haben alle Buchungen von Mitarbeitern eine sogenannte "Freeze Time". Das bedeutet, dass Buchungen 
 nach einer bestimmten Zeit nicht mehr bearbeitbar sind. Die "Freeze Time" ist standardmäßig auf 30 Tage eingestellt. 

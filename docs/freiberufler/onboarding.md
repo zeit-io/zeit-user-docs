@@ -82,7 +82,5 @@ Die folgenden Themen könnten für Sie auch interessant sein:
 
 - [Gutschriftverfahren](/freiberufler/gutschriftverfahren): Was ist das Gutschriftverfahren und wie funktioniert es?
 - [Projekte](/freiberufler/projekte): Wie kann ich Projektdetails einsehen?
-- Zeiterfassung:
-    - Stundenweise: In Ihrem Vertrag ist ein Stundensatz hinterlegt und Sie erfassen Ihre Zeiten stundenweise.  
-    - Tagesweise: In Ihrem Vertrag ist ein Tagessatz hinterlegt und Sie erfassen Ihre Zeiten tagesweise. 
+- [Zeiterfassung](/freiberufler/zeiterfassung): Wie kann ich meine Zeiten erfassen?
    
