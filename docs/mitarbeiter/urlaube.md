@@ -62,4 +62,17 @@ Meinung sind, dass Ihnen Sonderurlaub zusteht, dann wenden Sie sich bitte an Ihr
 Personalabteilung. Diese können dann prüfen, ob Ihnen Sonderurlaub gewährt werden kann und die entsprechenden
 Urlaubstage in ZEIT.IO eintragen.
 
+### Wieso verfallen nicht genommene Urlaubstage am Jahresende?
 
+Ob nicht genommene Urlaubstage am Jahresende verfallen oder nicht, hängt von der Konfiguration Ihres Arbeitsvertrags
+ab. Wenn Sie der Meinung sind dass Ihnen nicht genommene Urlaubstage aus dem letzten Jahr zustehen, dann wenden
+Sie sich bitte an Ihren Vorgesetzten oder an die Personalabteilung. Diese können dann prüfen, ob Ihnen die
+nicht genommenen Urlaubstage aus dem letzten Jahr in das neue Jahr übertragen werden können.
+
+### Wieso verfallen übertragene Urlaubstage aus dem letzten Jahr am 31. März?
+
+Nicht genommene Urlaubstage aus dem letzten Jahr, die in das neue Jahr übertragen wurden, verfallen standardmäßig
+am 31. März des neuen Jahres. Das ist die Standardkonfiguration in ZEIT.IO. Allerdings kann das Verfallsdatum
+für dise zusätzlichen Urlaubstage frei angepasst werden. Wenn Sie der Meinung sind, dass das Verfallsdatum für die
+übertragenen Urlaubstage angepasst werden sollte, dann wenden Sie sich bitte an Ihren Vorgesetzten oder an die
+Personalabteilung. Diese können dann das Verfallsdatum für die übertragenen Urlaubstage in ZEIT.IO anpassen.

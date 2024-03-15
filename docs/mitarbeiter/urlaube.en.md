@@ -52,3 +52,18 @@ As an employee, you cannot apply for special leave. Special leave is granted by 
 special occasions, such as marriage, moving, death in the family, and so on. If you believe that you are entitled to 
 special leave, please contact your supervisor or the HR department. They can then check whether special leave can be 
 granted to you and enter the corresponding vacation days in ZEIT.IO.
+
+### Why do unused vacation days expire at the end of the year?
+
+Whether untaken vacation days expire at the end of the year or not depends on the configuration of your employment 
+contract. If you believe that you are entitled to unused vacation days from last year, please contact your supervisor 
+or the human resources department. They can then check whether the vacation days not taken from last year can be 
+carried over into the new year. 
+
+### Why do vacation days carried over from last year expire on March 31st? 
+
+Unused vacation days from last year that were carried over into the new year expire by default on March 31 of the 
+new year. This is the standard configuration in ZEIT.IO. However, the expiry date for these additional vacation days 
+can be freely adjusted. If you believe that the expiry date for the transferred vacation days should be adjusted, 
+please contact your supervisor or the HR department. They can then adjust the expiry date for the transferred 
+vacation days in ZEIT.IO.
