@@ -1,3 +1,3 @@
-# Genehmigungsverfahren 
+# Approval procedure 
 
 .. coming soon .. 

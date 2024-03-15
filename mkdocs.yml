@@ -23,6 +23,8 @@ nav:
     - projects: 'freiberufler/projekte.en.md'
     - time_tracking: 'freiberufler/zeiterfassung.md'
     - time_tracking: 'freiberufler/zeiterfassung.en.md'
+    - genehmigungsverfahren: 'freiberufler/genehmigungsverfahren.md'
+    - genehmigungsverfahren: 'freiberufler/genehmigungsverfahren.en.md'
   - approver_context:
     - common: 'genehmiger/index.md'
     - common: 'genehmiger/index.en.md'
@@ -102,6 +104,7 @@ plugins:
           time_tracking: "Zeiterfassung"
           vacations: "Urlaube"
           empployee_contracts: "Mitarbeiterverträge"
+          genehmigungsverfahren: "Genehmigungsverfahren"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -116,3 +119,4 @@ plugins:
           time_tracking: "Time tracking"
           vacations: "Vacations"
           empployee_contracts: "Employee contracts"
+          genehmigungsverfahren: "Approval procedure"
