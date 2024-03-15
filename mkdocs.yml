@@ -35,6 +35,8 @@ nav:
     - approver: 'organisationen/genehmiger.en.md'
     - empployee_contracts: 'organisationen/mitarbeiter_vertraege.md'
     - empployee_contracts: 'organisationen/mitarbeiter_vertraege.en.md'
+    - vacations: "organisationen/urlaube.md"
+    - vacations: "organisationen/urlaube.en.md"
 
 markdown_extensions:
   - admonition

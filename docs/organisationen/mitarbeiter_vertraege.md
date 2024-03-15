@@ -14,3 +14,4 @@ In ZEIT.IO können Sie die Option für halbe Urlaubstage in den Vertragskonditio
 Dafür navigieren Sie bitte, im Kontext der Organisation, zu dem gewünschten Mitarbeitervertrag und klicken auf den
 Tab "Einstellungen". Bei der Sektion "Urlaub", gibt es eine Checkbox "Halbe Urlaubstage sind möglich". Wenn diese 
 Option aktiviert ist, dann kann der Mitarbeiter halbe Urlaubstage beantragen.
+
