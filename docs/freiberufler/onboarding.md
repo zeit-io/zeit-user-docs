@@ -83,4 +83,5 @@ Die folgenden Themen könnten für Sie auch interessant sein:
 - [Gutschriftverfahren](/freiberufler/gutschriftverfahren): Was ist das Gutschriftverfahren und wie funktioniert es?
 - [Projekte](/freiberufler/projekte): Wie kann ich Projektdetails einsehen?
 - [Zeiterfassung](/freiberufler/zeiterfassung): Wie kann ich meine Zeiten erfassen?
+- [Genehmigungsverfahren](/freiberufler/genehmigungsverfahren): Wie kann ich meine Zeiten genehmigen lassen?
    
