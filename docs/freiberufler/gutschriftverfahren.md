@@ -13,7 +13,8 @@ zur Rechnungserstellung ist das Gutschriftverfahren.
 
 ## Wie funktioniert das Gutschriftverfahren?
 
-Nachdem Sie Ihre Zeiten und/oder Ausgaben auf ein Projekt gebucht haben, beantragen Sie hierfür eine Genehmigung. 
+Nachdem Sie Ihre Zeiten und/oder Ausgaben auf ein Projekt gebucht haben, beantragen Sie hierfür eine 
+[Genehmigung](/freiberufler/genehmigungsverfahren). 
 Wenn Ihr eingereichtes Timesheet (bzw. Ausgabe) genehmigt wird, dann wird in der Regel automatisch eine 
 Gutschrift ausgestellt. Die Gutschrift wird von der Organisation ausgestellt, die das Projekt betreibt. 
 Die Gutschrift enthält die gleichen Informationen wie eine Rechnung, nur dass die Abrechnungslast nicht von Ihnen, 

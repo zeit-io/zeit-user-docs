@@ -23,8 +23,12 @@ nav:
     - projects: 'freiberufler/projekte.en.md'
     - time_tracking: 'freiberufler/zeiterfassung.md'
     - time_tracking: 'freiberufler/zeiterfassung.en.md'
+    - expenses: 'freiberufler/ausgaben.md'
+    - expenses: 'freiberufler/ausgaben.en.md'
     - genehmigungsverfahren: 'freiberufler/genehmigungsverfahren.md'
     - genehmigungsverfahren: 'freiberufler/genehmigungsverfahren.en.md'
+    - leistungsnachweise: 'freiberufler/leistungsnachweise.md'
+    - leistungsnachweise: 'freiberufler/leistungsnachweise.en.md'
   - approver_context:
     - common: 'genehmiger/index.md'
     - common: 'genehmiger/index.en.md'
@@ -104,9 +108,11 @@ plugins:
           gutschriftverfahren: "Gutschriftverfahren"
           projects: "Projekte"
           time_tracking: "Zeiterfassung"
+          expenses: "Ausgaben"
           vacations: "Urlaube"
           empployee_contracts: "Mitarbeiterverträge"
           genehmigungsverfahren: "Genehmigungsverfahren"
+          leistungsnachweise: "Leistungsnachweise"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -119,6 +125,8 @@ plugins:
           gutschriftverfahren: "Credit note procedure"
           projects: "Projects"
           time_tracking: "Time tracking"
+          expenses: "Expenses"
           vacations: "Vacations"
           empployee_contracts: "Employee contracts"
           genehmigungsverfahren: "Approval procedure"
+          leistungsnachweise: "Certificate of achievements"

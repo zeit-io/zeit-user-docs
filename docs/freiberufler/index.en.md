@@ -5,17 +5,20 @@ The freelance context is a special context intended for freelancers and self-emp
 If you register with ZEIT.IO as an individual, we assume that you are a freelancer,
 or are self-employed and you will automatically be entered into the freelance context.
 
-In a freelance context you can:
+If you are invited by an organization, as a permanent employee or approver, then by default you have a 
+different context. In that case please look at the documentation for that
+[Employee context](/mitarbeiter/index.en), or [Approver context](/genehmiger/index.en).
 
-- Create and manage customers
-- Create and manage projects
-- Record project times
-- Record expenses
-- Create and send invoices
-- Accept contract offers from ZEIT.IO organizations
-- Request approval for recorded times and expenses
+In the freelance context, you can organize your entire business as a freelancer or self-employed person
+administer. Specifically, you can:
 
-These features allow you to organize and manage your business as a freelancer or self-employed person.
+- create and manage customers
+- create and manage projects
+- record project times
+- record expenses
+- create and send invoices
+- accept contract offers from ZEIT.IO organizations
+- request approval for recorded times and expenses
 
 !!! info
     Collaboration features are not included in this context. If you have employees yourself
