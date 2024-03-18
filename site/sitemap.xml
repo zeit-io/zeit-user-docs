@@ -171,6 +171,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.zeit.io/organisationen/kunden.en/</loc>
+         <lastmod>2024-03-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/organisationen/kunden/</loc>
+         <lastmod>2024-03-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.zeit.io/organisationen/mitarbeiter_vertraege.en/</loc>
          <lastmod>2024-03-18</lastmod>
          <changefreq>daily</changefreq>
