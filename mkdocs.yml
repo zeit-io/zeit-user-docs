@@ -41,6 +41,8 @@ nav:
     - empployee_contracts: 'organisationen/mitarbeiter_vertraege.en.md'
     - vacations: "organisationen/urlaube.md"
     - vacations: "organisationen/urlaube.en.md"
+    - customers: "organisationen/kunden.md"
+    - customers: "organisationen/kunden.en.md"
 
 markdown_extensions:
   - admonition
@@ -113,6 +115,7 @@ plugins:
           empployee_contracts: "Mitarbeiterverträge"
           genehmigungsverfahren: "Genehmigungsverfahren"
           leistungsnachweise: "Leistungsnachweise"
+          customers: "Kunden"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -130,3 +133,4 @@ plugins:
           empployee_contracts: "Employee contracts"
           genehmigungsverfahren: "Approval procedure"
           leistungsnachweise: "Certificate of achievements"
+          customers: "Customers"
