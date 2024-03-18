@@ -18,7 +18,7 @@ In dem Fall werden Sie eine Einladung per E-Mail erhalten die z.B. so aussehen k
 ![Einladungs-E-Mail](../img/context-freelance/invite-email-de.png){ width=100% }
 
 In der E-Mail ist von einem Vertrag die Rede. Auf ZEIT.IO sind Personen und Organisationen durch Verträge miteinander
-verbunden. Ein Vertrag regelt die Zusammenarbeit zwischen zwei Parteien und enhält in der Regel folgende Informationen:
+verbunden. Ein Vertrag regelt die Zusammenarbeit zwischen zwei Parteien und enthält in der Regel folgende Informationen:
 
 - Vertragspartner
 - Vertragsgegenstand
@@ -85,4 +85,3 @@ Die folgenden Themen könnten für Sie auch interessant sein:
 - [Zeiterfassung](/freiberufler/zeiterfassung): Wie kann ich meine Zeiten erfassen?
 - [Ausgaben](/freiberufler/ausgaben): Wie kann ich Ausgaben/Spesen erfassen?
 - [Genehmigungsverfahren](/freiberufler/genehmigungsverfahren): Wie kann ich meine Leistungen genehmigen lassen?
-   

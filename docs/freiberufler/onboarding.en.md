@@ -79,10 +79,8 @@ can book times and expenses on it.
 
 The following topics might also be of interest to you:
 
-- [Credit process](/freelancer/credit process): What is the credit process and how does it work?
-- [Projects](/freelancer/projects): How can I view project details?
-- Time tracking:
-    - Hourly: An hourly rate is stored in your contract and you record your times hourly.
-    - Daily: A daily rate is stored in your contract and you record your times on a daily basis.
-
-
+- [Credit note procedure](/freiberufler/gutschriftverfahren.en): What is the credit process and how does it work?
+- [Projects](/freiberufler/projekte.en): How can I view project details?
+- [Time tracking](/freiberufler/zeiterfassung.en): How can I record project times?
+- [Expenses](/freiberufler/ausgaben.en): How can I record expenses?
+- [Approval process](/freiberufler/genehmigungsverfahren.en): How can I get my services approved?

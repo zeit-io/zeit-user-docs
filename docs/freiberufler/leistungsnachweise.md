@@ -1,14 +1,14 @@
-# Leiungsnachweise
+# Leistungsnachweise
 
-Leistungsnachweise werden verwendet, um Genehmigung für gebuchte Zeiten anzufordern. 
-Ein Leistungsnachweis ist immer eine Sammlung von gebuchten Zeiten (TimeRecords) in einem bestimmten Zeitraum, 
+Leistungsnachweise werden verwendet, um Genehmigung für gebuchte Zeiten anzufordern.
+Ein Leistungsnachweis ist immer eine Sammlung von gebuchten Zeiten (TimeRecords) in einem bestimmten Zeitraum,
 bezogen auf mindestens ein Projekt und eine einzelne Person.
 
 ## Zeiten genehmigen lassen (TimeRecords)
 
 Dieses Kapitel behandelt das Genehmigungsverfahren für Zeiten, die Sie direkt auf ZEIT.IO erfasst haben,
 bzw. nach ZEIT.IO importiert haben. Das betrifft alle Zeitbuchungen (TimeRecords) die im Hauptmenü unter "Zeiten"
-zu finden sind. Dies beinhaltet z.B. auch Zeitbuchungen (TimeRecords) die über den JIRA Tempo CSV Import und den
+zu finden sind. Dies beinhaltet z.B. auch Zeitbuchungen (Time Records), die über den JIRA Tempo CSV Import und den
 JIRA Clockwork CSV Import importiert wurden.
 
 Wenn Sie im Hauptmenü auf "Zeiten" klicken, dann sehen Sie im Tab "Liste" Ihre letzten Buchungen.
@@ -38,7 +38,7 @@ angezeigt, aus dem gewählten Zeitraum und Projekt, die noch nicht genehmigt sin
 
 Ganz unten auf der Seite, können Sie optional noch einen Kommentar eingeben, z.B. um den Genehmiger auf
 etwas hinzuweisen. Mit dem Klick auf "Genehmigung beantragen" wird die Genehmigung dann beantragt. Im Hintergrund
-wird dadurch ein neuer Leistungsnachweis erstellt, welches die Zeitbuchungen (TimeRecords) aus dem
+wird dadurch ein neuer Leistungsnachweis erstellt, welcher die Zeitbuchungen (TimeRecords) aus dem
 gewählten Zeitraum und Projekt enthält. Wenn alles geklappt hat, dann sehen Sie eine Bestätigungsmeldung
 und den offenen Leistungsnachweis.
 
@@ -53,7 +53,7 @@ nicht bearbeitet oder gelöscht werden. Wenn der Leistungsnachweis abgelehnt wir
 Zeitbuchungen (TimeRecords) wieder freigegeben zur Bearbeitung, damit Sie die Möglichkeit haben,
 die Zeitbuchungen (TimeRecords) zu korrigieren und erneut zur Genehmigung einzureichen.
 
-Wenn der Leistungsnachweis genehmigt wurde, bleiben die Zeitbuchungen (TimeRecords) die sich darauf befinden,
+Wenn der Leistungsnachweis genehmigt wurde, bleiben die Zeitbuchungen (Time Records), die sich darauf befinden,
 dauerhaft gesperrt für die Bearbeitung und sind somit unveränderbar.
 
 !!! Info
@@ -69,7 +69,7 @@ eine Rechnung dafür erstellt werden.
 
 ## Externen Leistungsnachweis genehmigen lassen
 
-Manchmal müssen Sie auch Zeiten genehmigen lassen, die Sie ausserhalb von ZEIT.IO erfasst haben. Wenn der
+Manchmal müssen Sie auch Zeiten genehmigen lassen, die Sie außerhalb von ZEIT.IO erfasst haben. Wenn der
 Endkunde darauf besteht, das Sie die Zeiten in seinem System erfasst werden müssen, dann können Sie die Zeiten
 trotzdem in ZEIT.IO zur Genehmigung einreichen. Dafür müssen Sie ihre gebuchten Zeiten aus dem anderen System
 exportieren, und in der Regel auch vom Kunden unterschreiben lassen. Dieses unterschrieben Dokument bezeichnen wir
