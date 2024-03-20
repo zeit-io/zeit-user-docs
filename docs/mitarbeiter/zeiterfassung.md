@@ -77,23 +77,23 @@ mit Start- und Stoppzeiten. Nach dem Speichern läuft der Timer weiter.
 
 ### Zeiten für andere Personen mit erfassen
 
-Oft kommt es vor, das man zu zweit mit einem Kunden im Meeting ist. Wenn beide Personen den Timer laufen lassen, 
-dann kommt kommt es oft vor, das die zwei Buchungen leicht unterschiedliche Start- und Stoppzeiten haben. Auf 
-einem Leistungsnachweis, den später der Kunde bekommt, ist das nicht so schön. 
+Oft kommt es vor, dass man zu zweit mit einem Kunden im Meeting ist. Wenn beide Personen den Timer laufen lassen,
+dann kommt kommt es oft vor, das die zwei Buchungen leicht unterschiedliche Start- und Stoppzeiten haben. Auf
+einem Leistungsnachweis, den später der Kunde bekommt, ist das nicht so schön.
 
-In dem Fall ist es sinnvoll, wenn nur eine Person den Timer laufen lässt und die Zeiten für beide Personen erfasst. 
-Damit beiden Buchungen die gleichen Start- und Stoppzeiten haben. 
+In dem Fall ist es sinnvoll, wenn nur eine Person den Timer laufen lässt und die Zeiten für beide Personen erfasst.
+Damit beide Buchungen die gleichen Start- und Stoppzeiten haben.
 
-Wenn Sie im modalen Dialog für die Zeiterfassung, ein Projekt auswählen, welches mehrere aktive Mitglieder hat, 
+Wenn Sie im modalen Dialog für die Zeiterfassung, ein Projekt auswählen, welches mehrere aktive Mitglieder hat,
 dann erscheint ein weiteres Eingabefeld für die Teilnehmer. Hier können Sie dann die Teilnehmer auswählen, für die
-Sie die Zeit mit erfassen wollen. Sie können hier auch mehrere Teilnehmer hinzufügen. Hier ein Beispiel, 
-bei dem Max Mustermann hinzugefügt wurde. 
+Sie die Zeit mit erfassen wollen. Sie können hier auch mehrere Teilnehmer hinzufügen. Hier ein Beispiel,
+bei dem Max Mustermann hinzugefügt wurde.
 
 ![Teilnehmer hinzufügen](../img/context-employee/participants-01-de.png)
 
-Wenn Sie jetzt die Zeit buchen, dann wird die Zeit für beide Personen erfasst. Es werden dann zwei Buchungen 
-erstellt, eine für Sie und eine für Max Mustermann. Beide Buchungen haben dabei den exakt gleichen Inhalt. 
-Auf einem Leistungsnachweis sieht es dann sehr professionell aus, wenn die Zeiten der Meeting-Teilnehmer 
+Wenn Sie jetzt die Zeit buchen, dann wird die Zeit für beide Personen erfasst. Es werden dann zwei Buchungen
+erstellt, eine für Sie und eine für Max Mustermann. Beide Buchungen haben dabei den exakt gleichen Inhalt.
+Auf einem Leistungsnachweis sieht es dann sehr professionell aus, wenn die Zeiten der Meeting-Teilnehmer
 alle die gleichen Start- und Stoppzeiten haben.
 
 ## FAQs

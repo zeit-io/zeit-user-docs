@@ -2,6 +2,39 @@
 
 .. coming soon ..
 
+## Timer
+
+### Shortcut keys for the timer
+
+You can also control the timer using the keyboard. This works with these keyboard shortcuts:
+
+- **Start**: `s`
+- **Pause**: `p`
+- **Continue**: `s`
+- **Stop**: `e`
+
+The form in the modal dialog can be submitted using the keyboard shortcut `Ctrl + Enter` (`Command + Enter` on Mac). 
+This allows times to be recorded very quickly, even without a mouse.
+
+### Record times for other people
+
+It often happens that there are two people in a meeting with a customer. If both people leave the timer running, 
+it often happens that the two bookings have slightly different start and stop times. This is not so nice on a 
+timesheet that the customer later receives.
+
+In this case, it makes sense if only one person runs the timer and records the times for both people. 
+So that both bookings have the same start and stop times.
+
+If you select a project in the modal dialog for time recording that has several active members, another input field 
+appears for the participants. Here you can then select the participants for whom you want to record the time. 
+You can also add multiple participants here. Here's an example, where Max Mustermann was added.
+
+![Add participant](../img/context-employee/participants-01-en.png)
+
+If you book the time now, the time will be recorded for both people. Two bookings will then be created, 
+one for you and one for Max Mustermann. Both bookings have exactly the same content. 
+It looks very professional on a timesheet if the times of the meeting participants all have the same start and stop times.
+
 ## FAQs
 
 ### Why are bookings no longer editable after a certain time?
