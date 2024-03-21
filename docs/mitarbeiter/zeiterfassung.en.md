@@ -26,8 +26,9 @@ In this case, it makes sense if only one person runs the timer and records the t
 So that both bookings have the same start and stop times.
 
 If you select a project in the modal dialog for time recording that has several active members, another input field 
-appears for the participants. Here you can then select the participants for whom you want to record the time. 
-You can also add multiple participants here. Here's an example, where Max Mustermann was added.
+appears for the participants. Here you can then select the participants for whom you want to record the time.
+The autocomplete suggests the usernames of the active members. You can also add multiple participants here. 
+Here's an example, where Max Mustermann was added.
 
 ![Add participant](../img/context-employee/participants-01-en.png)
 
@@ -47,4 +48,3 @@ important that bookings can no longer be changed.
 The "Freeze Time" can be configured per contract. This means that each employee can have a different "Freeze Time".
 If you want to edit bookings after a certain time, please contact your supervisor or the HR department. They can
 adjust the "Freeze Time" for your contract.
-

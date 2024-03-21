@@ -86,8 +86,8 @@ Damit beide Buchungen die gleichen Start- und Stoppzeiten haben.
 
 Wenn Sie im modalen Dialog für die Zeiterfassung, ein Projekt auswählen, welches mehrere aktive Mitglieder hat,
 dann erscheint ein weiteres Eingabefeld für die Teilnehmer. Hier können Sie dann die Teilnehmer auswählen, für die
-Sie die Zeit mit erfassen wollen. Sie können hier auch mehrere Teilnehmer hinzufügen. Hier ein Beispiel,
-bei dem Max Mustermann hinzugefügt wurde.
+Sie die Zeit mit erfassen wollen. Das Autocomplete schlägt die Benutzernamen der aktiven Mitglieder vor. 
+Sie können hier auch mehrere Teilnehmer hinzufügen. Hier ein Beispiel, bei dem Max Mustermann hinzugefügt wurde.
 
 ![Teilnehmer hinzufügen](../img/context-employee/participants-01-de.png)
 
