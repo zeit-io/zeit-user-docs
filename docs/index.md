@@ -15,10 +15,10 @@ Hier nachfolgend sind die wichtigsten Funktionen von ZEIT.IO aufgelistet:
 * Projekte (Deadlines, Budgets, Controlling) 
 * Ausgaben/Spesen  
 * Vertragsverwaltung
-* Buchhaltung (Ausgangsrechnungen, Eingangsrechnungen, Gutschriften, Mahnwesen, etc.)
+* Buchhaltung (Ausgangsrechnungen, Eingangsrechnungen, Gutschriften, Mahnwesen etc.)
 * Auto. Ausgangsrechnungen
 * Gutschriftverfahren für Freiberufler & Lieferanten 
-* Kundenverwaltung (Stammdaten, Ansprechpartner, Abteilungen, Kommentare, etc.)
+* Kundenverwaltung (Stammdaten, Ansprechpartner, Abteilungen, Kommentare etc.)
 * Krankmeldungen
 * Urlaubsverwaltung mit Freigabeprozess
 * Überstundenkonto für Mitarbeiter (Wird in Echtzeit berechnet) 
