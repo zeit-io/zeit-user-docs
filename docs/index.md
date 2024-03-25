@@ -16,12 +16,12 @@ Hier nachfolgend sind die wichtigsten Funktionen von ZEIT.IO aufgelistet:
 * Ausgaben/Spesen  
 * Vertragsverwaltung
 * Buchhaltung (Ausgangsrechnungen, Eingangsrechnungen, Gutschriften, Mahnwesen etc.)
-* Auto. Ausgangsrechnungen
+* Auto.-Ausgangsrechnungen
 * Gutschriftverfahren für Freiberufler & Lieferanten 
 * Kundenverwaltung (Stammdaten, Ansprechpartner, Abteilungen, Kommentare etc.)
 * Krankmeldungen
 * Urlaubsverwaltung mit Freigabeprozess
-* Überstundenkonto für Mitarbeiter (Wird in Echtzeit berechnet) 
+* Überstundenkonto für Mitarbeiter (wird in Echtzeit berechnet) 
 * Auditlogs 
 * API für Drittanbieter
 
@@ -36,13 +36,13 @@ ist die Nutzung für Firmen. Firmen können sich kostenlos registrieren und die 
 In vielen anderen Software-Lösungen funktioniert die Benutzerverwaltung so, dass ein Benutzer in einer Organisation 
 angelegt wird und dann dieser Zugriff auf bestimmte Funktionen der Organisation hat. 
 Wenn der gleiche Benutzer in einer anderen Organisation tätig werden soll, dann muss der Benutzer dort 
-erneut angelegt werden. Das führt dazu das ein und die selbe Person mehrere Benutzerkonten in verschiedenen 
+erneut angelegt werden. Das führt dazu, dass ein und die selbe Person mehrere Benutzerkonten in verschiedenen 
 Organisationen haben muss.<br/>
 **In ZEIT.IO ist das nicht so!**
 
 In ZEIT.IO wird ein Benutzer nur einmal angelegt und kann dann in verschiedenen Organisationen Mitglied sein. 
 Die Benutzerverwaltung von ZEIT.IO ähnelt der von Facebook oder LinkedIn. Jeder Benutzer hat ein Profil und 
-verwaltet selber seine Stammdaten! Ein Benutzer kann Mitglied in verschiedenen Organisationen sein und in jeder
+verwaltet selbst seine Stammdaten! Ein Benutzer kann Mitglied in verschiedenen Organisationen sein und in jeder
 Organisation unterschiedliche Rollen/Rechte haben.
 
 ## Mandantenfähigkeit
@@ -56,7 +56,7 @@ den verschiedenen Organisationen wechseln.
 In ZEIT.IO gibt es verschiedene Kontexte. Ein Kontext ist eine Art "Sicht" auf die Daten. Unterschiedliche 
 Personen haben unterrschiedliche Rollen und brauchen deshalb auch ganz unterschiedliche Hautpmenüs und 
 Funktionen. Ein festangestellter Mitarbeiter hat in ZEIT.IO z.B. ein ganz anderes Hauptmenü als ein Freiberufler. 
-Ein festangestellter Mitarbeiter hat z.B. im Hauptmenü, Punkte wie "Urlaube" und "Krankmeldungen", was für 
+Ein festangestellter Mitarbeiter hat z.B. im Hauptmenü Punkte wie "Urlaube" und "Krankmeldungen", was für 
 einen Freiberufler nicht relevant ist. Und ein Freiberufler dagegen hat im Hauptmenü z.B. Punkte wie "Kunden" und 
 "Rechnungen", was wiederum für einen festangestellten Mitarbeiter nicht relevant ist. 
 
@@ -67,7 +67,7 @@ Folgende Kontexte gibt es in ZEIT.IO:
 * Genehmiger Kontext
 * Organisations Kontext
 
-Der Context-Switch ist ein Dropdown-Menü in der Navigation, mit dem Benutzer zwischen verschiedenen Kontexten 
+Der Kontextwechsel ist ein Dropdown-Menü in der Navigation, mit dem Benutzer zwischen verschiedenen Kontexten 
 wechseln können. Wenn man nur einen Kontext hat, dann wird das Dropdown-Menü nicht angezeigt. Wenn man mehrere 
 Kontexte hat, dann wird das Dropdown-Menü angezeigt. Hier ein Beispiel wie es aussehen kann wenn man vier Kontexte hat:
 
@@ -76,8 +76,8 @@ Kontexte hat, dann wird das Dropdown-Menü angezeigt. Hier ein Beispiel wie es a
 Die Kontexte "Selbständigkeit" und "Genehmiger Modus" tauchen immer nur einmal auf. Für Festanstellungen und 
 Organisationen kann man durchaus mehrere Einträge haben. Wenn man z.B. in zwei verschiedenen Organisationen eine 
 aktive Mitgliedschaft hat, dann wird man unter "Organisationen" zwei Einträge haben und kann damit dann zwischen den
-Organisationen wechseln. Und wenn man eine Festanstellung und einen "mini-Job" hat, dann hat man dementsprechend 
-zwei Einträge unter "Festanstellungen" und kann damit dann zwischen den Festanstellungen wechseln.
+Organisationen wechseln. Und wenn man eine Festanstellung und einen "Minijob" hat, dann hat man dementsprechend 
+zwei Einträge unter "Festanstellungen" und kann damit zwischen den Festanstellungen wechseln.
 
 
 
