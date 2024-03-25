@@ -91,8 +91,18 @@ Sie können hier auch mehrere Teilnehmer hinzufügen. Hier ein Beispiel, bei dem
 
 ![Teilnehmer hinzufügen](../img/context-employee/participants-01-de.png)
 
-Wenn Sie jetzt die Zeit buchen, dann wird sie für beide Personen erfasst. Es werden  zwei Buchungen
-erstellt, eine für Sie und eine für Max Mustermann. Beide Buchungen haben dabei den exakt gleichen Inhalt.
+Wenn Sie jetzt die Zeit buchen, dann wird der Eintrag erstmal für Sie gespeichert. **Für die Teilnehmer wird nicht 
+automatisch eine Buchung erstellt.** Die Teilnehmer, die Sie ausgewählt haben, bekommen dann eine 
+E-Mail-Benachrichtigung, die ungefähr so aussieht:
+
+![Teilnehmer hinzufügen](../img/context-employee/participants-02-de.png)
+
+In der E-Mail werden die Teilnehmer darüber informiert, dass Sie als Teilnehmer für eine Zeitbuchung markiert wurden.
+In der E-Mail befindet sich auch ein Link, über den die Teilnehmer die Buchung einsehen und übernehmen können. 
+Wenn ein Teilnehmer auf den Link klickt, dann öffnet sich das modale Dialogfenster für die Zeiterfassung und 
+das Formular ist mit den Werten (Datum, Von, Bis, Projekt, Kommentar) der ursprünglichen Buchung vorbelegt. 
+Der Teilnehmer kann dann die Buchung übernehmen und speichern. Wenn die Werte unverändert übernommen werden,
+dann hat man im Projekt zwei Buchungen, von unterschiedlichen Personen, mit exakt gleichen Inhalt.
 Auf einem Leistungsnachweis sieht es dann sehr professionell aus, wenn die Zeiten der Meeting-Teilnehmer
 alle die gleichen Start- und Stoppzeiten haben.
 
