@@ -21,11 +21,11 @@ verwalten. Konkret können Sie:
 - Genehmigung anfordern für erfasste Zeiten und Ausgaben
 
 !!! Info
-    Kollaborationsfunktionen sind in diesem Zusammenhang nicht enthalten. Wenn Sie selber Mitarbeiter haben
-    oder selber Freiberufler beschäftigen und Projekte mit anderen Personen zusammen bearbeiten wollen, dann
+    Kollaborationsfunktionen sind in diesem Zusammenhang nicht enthalten. Wenn Sie selbst Mitarbeiter haben
+    oder Freiberufler beschäftigen und Projekte mit anderen Personen zusammen bearbeiten wollen, dann
     müssen Sie sich als Firma registrieren und die Firma als Organisation anlegen. Eine ZEIT.IO Organisation
-    können Sie auch jederzeit als Freiberufler, nachträglich anlegen. Schauen Sie sich dazu die Dokumentation
-    für den Organisations-Kontext an.
+    können Sie auch jederzeit als Freiberufler nachträglich anlegen. Schauen Sie sich dazu die Dokumentation
+    für den Organisations Kontext an.
 
-Wenn Sie von einer Organisation, Als Lieferant, eingeladen wurden zu ZEIT.IO, dann schauen Sie sich bitte die
+Wenn Sie von einer Organisation als Lieferant zu ZEIT.IO eingeladen wurden, dann schauen Sie sich bitte die
 Dokumentation für das [Onboarding](/freiberufler/onboarding) an.
