@@ -3,17 +3,17 @@
 [ZEIT.IO](https://zeit.io) ist eine Plattform für Zeiterfassung, Projektmanagement und Rechnungswesen. Sie können 
 hier Zeiten und Ausgaben auf Projekte buchen und dafür eine Genehmigung beantragen. Für genehmigte Timesheets und 
 Ausgaben werden in der Regel Gutschriften ausgestellt. Eine Gutschrift ist eine Art umgekehrte Rechnung, die vom 
-Auftraggeber an den Lieferanten ausgestellt wird. Dadurch entfällt für Sie die Rechnungserstellung komplett.
+Auftraggeber an den Lieferanten ausgestellt wird. Dadurch entfällt für Sie die Rechnungsstellung komplett.
 
 ## Einladung von einer Agentur / Organisation
 
-Eine ZEIT.IO Organisation repräsentiert immer eine Firma, bzw. eine Agentur. Das besondere an einer
-ZEIT.IO Organisation sind die kollaborativen Funktionen. In einer Organisation können mehrere Personen (Mitarbeiter,
-Freiberufler, Genehmiger, Buchhalter, etc.) gemeinsam an einem Projekt arbeiten.
+Eine ZEIT.IO Organisation repräsentiert immer eine Firma, bzw. eine Agentur. Das besondere an ZEIT.IO Organisation
+sind die kollaborativen Funktionen. In einer Organisation können mehrere Personen (Mitarbeiter, Freiberufler,
+Genehmiger, Buchhalter etc.) gemeinsam an einem Projekt arbeiten.
 
 Wenn Sie eine Einladungs-E-Mail von einer ZEIT.IO Organisation erhalten haben, dann möchte die Organisation
 mit Ihnen zusammenarbeiten und Sie dazu ermächtigen Zeiten und Ausgaben auf mindestens eines ihrer Projekte zu buchen.
-In dem Fall werden Sie eine Einladung per E-Mail erhalten die z.B. so aussehen kann:
+Diese Einladung per E-Mail sieht z.B. so aus:
 
 ![Einladungs-E-Mail](../img/context-freelance/invite-email-de.png){ width=100% }
 
@@ -23,16 +23,16 @@ verbunden. Ein Vertrag regelt die Zusammenarbeit zwischen zwei Parteien und enth
 - Vertragspartner
 - Vertragsgegenstand
 - Vertragslaufzeit (Start- und Enddatum)
-- Vertragskonditionen (z.B. Stundensatz, Tagessatz, etc.)
-- Vertragsdokumente (z.B. AGBs, NDA, etc.)
-- Projektinformationen (z.B. Projektname, Projektbeschreibung, etc.)
+- Vertragskonditionen (z.B. Stundensatz, Tagessatz etc.)
+- Vertragsdokumente (z.B. AGBs, NDA etc.)
+- Projektinformationen (z.B. Projektname, Projektbeschreibung etc.)
 
 ## Registrierung
 
 Wenn Sie das Vertragsangebot einsehen wollen, dann müssen Sie sich bei ZEIT.IO registrieren. Da es sich hierbei
-um sensible Daten handelt, ist das Vertragsangebot nur im Login-Bereich einsehbar. Dafür klicken Sie bitte auf den
-"Registrieren" Button in der E-Mail. In dem Formular auf der folgenden Seite sollten dann schon ihr Vorname, Nachname 
-und E-Mail vorbelegt sein, dann müssen Sie nur noch ein Passwort wählen und die AGBs akzeptieren. Hier ein Beispiel für 
+um sensible Daten handelt, ist das Vertragsangebot nur im Login-Bereich einsehbar. Dafür klicken Sie bitte auf die Schaltfläche
+"Registrieren" in der E-Mail. In dem Formular auf der folgenden Seite sollten dann schon ihr Vorname, Nachname 
+und E-Mail vorbelegt sein, Sie müssen nur noch ein Passwort wählen und die AGBs akzeptieren. Hier ein Beispiel für 
 die Registrierungsseite:
 
 ![Registrierungsseite](../img/signup-de.png){ width=80% }
