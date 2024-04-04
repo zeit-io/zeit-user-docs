@@ -57,23 +57,23 @@ Ein ZEIT.IO Vertragsangebot enthält die wichtigsten Eckdaten für eine erfolgre
  - Vertragspartner mit offiziellen Firmennamen und Anschrift
  - Vertragstitel und Vertragsgegenstand
  - Vertragslaufzeit (Start- und Enddatum)
- - Vertragsdokumente (z.B. Rahmenvertrag, Projektvertrag, NDA, etc.)
- - Vertragskonditionen (z.B. einen Stundensatz, Tagessatz, oder mehrere Stundensätze für Remote/Onsite, etc.)
- - Informationen zum Projekt (Projektname, Projektbeschreibung, etc.)
- - Zahlungsbedingungen (z.B. Zahlungsziel, Zahlungsweise, etc.)
+ - Vertragsdokumente (z.B. Rahmenvertrag, Projektvertrag, NDA etc.)
+ - Vertragskonditionen (z.B. einen Stundensatz, Tagessatz, oder mehrere Stundensätze für Remote/Onsite etc.)
+ - Informationen zum Projekt (Projektname, Projektbeschreibung etc.)
+ - Zahlungsbedingungen (z.B. Zahlungsziel, Zahlungsweise etc.)
 
 Hier ein Beispiel: 
 
 ![Vertragsangebot](../img/context-freelance/contract-offering-de.png){ width=100% }
 
 Wenn Sie auf der Seite weiter nach unten scrollen, dann folgt ein Formular, mit dessen Hilfe Sie das Angebot entweder 
-ablehnen oder annehmen können. Wenn Sie das Angebot annehmen wollen, dann müssen Sie weitere Angaben zu Ihren Stammdaten 
+ablehnen oder annehmen können. Wenn Sie das Angebot annehmen wollen, müssen Sie weitere Angaben zu Ihren Stammdaten 
 machen. So müssen z.B. die eigene Rechtsform, Adresse, Steuernummer und die Bankverbindung angegeben werden. 
 Hier ein Beispiel:
 
 ![Vertragsangebot annehmen](../img/context-freelance/contract-offering-form-de.png)
 
-Nach dem Akzeptieren des Vertragsangebots, ist das Projekt aus dem Vertragsangebot für Sie freigeschaltet und Sie 
+Nach dem Akzeptieren des Vertragsangebots ist das Projekt aus dem Vertragsangebot für Sie freigeschaltet und Sie 
 können Zeiten und Ausgaben auf das Projekt buchen.
 
 ## Weitere Schritte
