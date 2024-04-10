@@ -20,8 +20,8 @@ Wenn der Genehmigungsprozess für Ihre Projekt-Mitgliedschaft nicht aktiviert is
 Buchungen sofort genehmigt und können sofort in Rechnung gestellt werden.
 
 !!! Info  
-Das [Gutschriftverfahren](/freiberufler/gutschriftverfahren/) gibt es nur in Kombination mit dem Genehmigungsverfahren.
-Ohne Genehmigungsverfahren gibt es auch keine Gutschriften!
+    Das [Gutschriftverfahren](/freiberufler/gutschriftverfahren/) gibt es nur in Kombination mit dem Genehmigungsverfahren.
+    Ohne Genehmigungsverfahren gibt es auch keine Gutschriften!
 
 In den folgenden Kapiteln wird beschrieben, wie Sie Genehmigung beantragen können:
 

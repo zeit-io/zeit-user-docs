@@ -6,7 +6,7 @@ wie Sie Ihre Projektzeiten erfassen können:
 - **Timer**: Erfassen Sie Ihre Zeiten mit Start-, Stop- und Pausenzeiten über den Timer.
 - **Kalender**: Erfassen Sie Ihre Zeiten mit "Drag and Drop" im Kalender.
 - **Stunden-Formular**: Erfassen Sie Ihre Zeiten manuell ohne Start- und Stoppzeit über die Dauer (Stunden & Minuten).
-- **Tages-Formular**: Erfassen Sie Ihre Zeiten ohne Start- und Stoppzeit tageweise.
+- **Tages-Formular**: Erfassen Sie Ihre Zeiten, ohne Start- und Stoppzeit, tageweise.
 - **Import**: Importieren Sie Ihre Zeiten aus einem anderen System.
 
 Außerdem gibt es verschiedene Clients, mit denen Sie Ihre Zeiten erfassen können:
@@ -120,15 +120,22 @@ angezeigt!
 Wenn Sie einen Vertrag mit einer Tagessatz-Vereinbarung haben und im Hauptmenü auf "Zeiten" klicken, dann
 erscheint ein Tab "Tagessatz-Erfassung". Dieser Tab ist auch der erste Tab und bereits vorausgewählt.
 
-Das Tages-Formular sieht so aus:
+Das Tages-Formular sieht wie folgt aus:
 
-![Tages-Formular](../img/context-freelance/day-form-01-de.png)
+![Tagessatz-Erfassung-Formular](../img/context-freelance/day-form-01-de.png)
 
 Sie können auf der Seite das Projekt und den Leistungsmonat auswählen und dann die Anzahl der Arbeitstage pro Monat
-erfassen. Dazu klicken Sie einfach die Tage an, an denen Sie gearbeitet haben. Für jeden Arbeitstag erscheint
-ein Eingabefeld, in dem Sie eine kurze Arbeitsbeschreibung eingeben können. Ganz unten auf der Seite können Sie 
-auf "Speichern" klicken um die Arbeitstage zu erfassen.
+erfassen. Dazu klicken Sie einfach die Tage an, an denen Sie gearbeitet haben. Für jeden Arbeitstag erscheint dann 
+eine Zeile im Formular, in der Sie folgende drei Felder ausfüllen können:
 
+- **Dauer**: Hier können Sie angeben, ob Sie einen ganzen Tag (8 Stunden), einen halben Tag (4 Stunden), 
+  oder nur einen viertel Tag (2 Stunden) gearbeitet haben.
+- **Tagessatz**: Das zweite Drop-Down Feld ist der Tagessatz. Hier können Sie auswählen, ob Sie remote oder Vor-Ort tätig 
+  waren. Dieses Drop-Down Feld erscheint nur dann, wenn Sie in dem Projekt mehrere Tagessätze vereinbart haben.
+  Wenn Sie nur einen Tagessatz haben, dann wird das Feld nicht angezeigt.
+- **Kommentar**: Hier können Sie eine kurze Beschreibung Ihrer Arbeit eingeben.
+
+Ganz unten auf der Seite können Sie auf "Speichern" klicken um die Arbeitstage zu speichern.
 
 ## FAQs
 
