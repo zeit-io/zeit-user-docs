@@ -60,9 +60,10 @@ Alle diese Informationen werden dann verwendet, um die nächste Gutschrift zu er
 
 ### Wie kann ich die Rechnungsnummer für Gutschriften konfigurieren?
 
-Sie als Lieferant (Freiberufler/Selbständiger) können die Rechnungsnummer (Nummernkreis) für Gutschriften nicht
-konfigurieren. Die Rechnungsnummer für Gutschriften wird von der Organisation festgelegt, welche die Gutschrift
-ausstellt.
+Sie als Lieferant (Freiberufler/Selbständiger) können die Rechnungsnummer (Nummernkreis) für Gutschriften nicht 
+konfigurieren. Da die Abrechnungslast nicht vom Lieferanten, sondern vom Kunden selbst getragen wird, 
+liegt die Hoheit für die Rechnungsnummer ebenfalls beim Kunden.
+Die Rechnungsnummer für Gutschriften wird von der Organisation festgelegt, welche die Gutschrift ausstellt.
 
 ### Wo kann ich "Reverse Charge" für Gutschriften konfigurieren?
 
