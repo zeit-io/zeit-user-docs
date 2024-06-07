@@ -43,6 +43,8 @@ nav:
     - vacations: "organisationen/urlaube.en.md"
     - customers: "organisationen/kunden.md"
     - customers: "organisationen/kunden.en.md"
+    - autoinvoicing: "organisationen/auto-invoicing.md"
+    - autoinvoicing: "organisationen/auto-invoicing.en.md"
 
 markdown_extensions:
   - admonition
@@ -116,6 +118,7 @@ plugins:
           genehmigungsverfahren: "Genehmigungsverfahren"
           leistungsnachweise: "Leistungsnachweise"
           customers: "Kunden"
+          autoinvoicing: "Auto-Ausgangsrechnungen"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -134,3 +137,4 @@ plugins:
           genehmigungsverfahren: "Approval procedure"
           leistungsnachweise: "Certificate of achievements"
           customers: "Customers"
+          autoinvoicing: "Auto-invoicing"

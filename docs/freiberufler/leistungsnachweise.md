@@ -1,6 +1,6 @@
 # Leistungsnachweise
 
-Leistungsnachweise werden verwendet, um Genehmigung für gebuchte Zeiten anzufordern.
+Leistungsnachweise werden verwendet, um Genehmigungen für gebuchte Zeiten anzufordern.
 Ein Leistungsnachweis ist immer eine Sammlung von gebuchten Zeiten (TimeRecords) in einem bestimmten Zeitraum,
 bezogen auf mindestens ein Projekt und eine einzelne Person.
 
