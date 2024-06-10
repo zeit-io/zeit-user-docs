@@ -817,6 +817,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#e-mail-erinnerungen" class="md-nav__link">
+    <span class="md-ellipsis">
+      E-Mail-Erinnerungen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#genehmiger-mit-login" class="md-nav__link">
     <span class="md-ellipsis">
       Genehmiger mit Login
@@ -1120,6 +1129,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#e-mail-erinnerungen" class="md-nav__link">
+    <span class="md-ellipsis">
+      E-Mail-Erinnerungen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#genehmiger-mit-login" class="md-nav__link">
     <span class="md-ellipsis">
       Genehmiger mit Login
@@ -1311,9 +1329,12 @@ eintragen möchte.</p>
 <p>Alle Felder unterhalb von <strong>"Genehmiger hinzufügen"</strong> sind Pflichtfelder. Wir brauchen natürlich den Vornamen, 
 Nachnamen und die E-Mail-Adresse des Genehmigers. Diese Informationen werden auch auf den Timesheets verwendet, 
 um anzuzeigen wer das Timesheet genehmigt hat. </p>
-<p>Mit den Checkboxen können Sie steuern, was der Genehmiger genehmigen darf. Also z.B. Timesheets und/oder Ausgaben.
-Gerade in größeren Organisationen ist es üblich, dass Timesheets von der Fachabteilung, und Ausgaben/Spesen von der
-Buchhaltung genehmigt werden. In dem Fall würden Sie zwei Genehmiger eintragen, mit unterschiedlichen Rechten.</p>
+<p>Mit den zwei ersten Checkboxen können Sie steuern, was der Genehmiger genehmigen darf. 
+Also z.B. Timesheets und/oder Ausgaben.
+Gerade in größeren Organisationen ist es üblich, dass Timesheets von der Fachabteilung, und Ausgaben/Spesen von der Buchhaltung genehmigt werden. 
+In dem Fall würden Sie zwei Genehmiger eintragen, mit unterschiedlichen Rechten.</p>
+<p>Mit den nachfolgenden Checkboxen für Montag bis Freitag, können Sie steuern, an welchen Wochentagen der Genehmiger
+eine Erinnerungsmail erhalten soll für noch ausstehende Timesheets/Ausgaben.</p>
 <p>Ganz unten im Formular sind die Radio-Buttons für die Art des Genehmigers. Grundsätzlich gibt es zwei
 Arten von Genehmigern:</p>
 <ul>
@@ -1329,7 +1350,15 @@ zum Timesheet. Die Genehmiger können dann auf der Timesheet-Seite alle Details 
 können dann kommentieren, genehmigen oder ablehnen.</p>
 <p>Die Genehmigung von Ausgaben funktioniert analog zur Genehmigung von Timesheets.</p>
 <p>Je nach Konfiguration kann die Genehmigung eines Timesheets weitere Automatismen auslösen. Wie z.B. die
-Generierung einer Ausgangsrechnung oder einer Gutschrift. </p>
+Generierung einer Ausgangsrechnung oder einer Gutschrift.</p>
+<h2 id="e-mail-erinnerungen">E-Mail-Erinnerungen</h2>
+<p>Wenn ein neues Timesheet/Ausgabe eingereicht wird, dann werden alle hinterlegten Genehmiger im Projekt
+sofort per E-Mail benachrichtigt. Die E-Mail enthält einen Link zum Timesheet/Ausgabe, das noch genehmigt werden muss.
+Unabhängig von der ersten Benachrichtigung können pro Genehmiger auch Erinnerungsmails eingestellt werden.
+Sie können für jeden Genehmiger im Projekt konfigurieren, an welchen Wochentagen der Genehmiger eine Erinnerungsmail
+erhalten soll. Die Erinnerungs-E-Mails werden dann immer um 06:22 UTC des jeweiligen Tages verschickt.</p>
+<p>Um dies zu konfigurieren, navigieren Sie im Projekt zu den Genehmigern und klicken Sie beim gewünschten Genehmiger auf "Bearbeiten". 
+Hier können Sie dann die Wochentage auswählen, an denen der Genehmiger eine Erinnerungsmail erhalten soll.</p>
 <h2 id="genehmiger-mit-login">Genehmiger mit Login</h2>
 <p>Ein Genehmiger mit Login ist eine Person, die ein eigenes Benutzerkonto in ZEIT.IO hat. Das bedeutet, dass
 diese Person sich mit Benutzernamen und Passwort in ZEIT.IO anmelden kann und dann Zugriff auf die
