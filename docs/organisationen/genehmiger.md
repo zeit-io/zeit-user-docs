@@ -38,9 +38,13 @@ Alle Felder unterhalb von **"Genehmiger hinzufügen"** sind Pflichtfelder. Wir b
 Nachnamen und die E-Mail-Adresse des Genehmigers. Diese Informationen werden auch auf den Timesheets verwendet, 
 um anzuzeigen wer das Timesheet genehmigt hat. 
 
-Mit den Checkboxen können Sie steuern, was der Genehmiger genehmigen darf. Also z.B. Timesheets und/oder Ausgaben.
-Gerade in größeren Organisationen ist es üblich, dass Timesheets von der Fachabteilung, und Ausgaben/Spesen von der
-Buchhaltung genehmigt werden. In dem Fall würden Sie zwei Genehmiger eintragen, mit unterschiedlichen Rechten.
+Mit den zwei ersten Checkboxen können Sie steuern, was der Genehmiger genehmigen darf. 
+Also z.B. Timesheets und/oder Ausgaben.
+Gerade in größeren Organisationen ist es üblich, dass Timesheets von der Fachabteilung, und Ausgaben/Spesen von der Buchhaltung genehmigt werden. 
+In dem Fall würden Sie zwei Genehmiger eintragen, mit unterschiedlichen Rechten.
+
+Mit den nachfolgenden Checkboxen für Montag bis Freitag, können Sie steuern, an welchen Wochentagen der Genehmiger
+eine Erinnerungsmail erhalten soll für noch ausstehende Timesheets/Ausgaben.
 
 Ganz unten im Formular sind die Radio-Buttons für die Art des Genehmigers. Grundsätzlich gibt es zwei
 Arten von Genehmigern:
@@ -61,7 +65,18 @@ können dann kommentieren, genehmigen oder ablehnen.
 Die Genehmigung von Ausgaben funktioniert analog zur Genehmigung von Timesheets.
 
 Je nach Konfiguration kann die Genehmigung eines Timesheets weitere Automatismen auslösen. Wie z.B. die
-Generierung einer Ausgangsrechnung oder einer Gutschrift. 
+Generierung einer Ausgangsrechnung oder einer Gutschrift.
+
+## E-Mail-Erinnerungen
+
+Wenn ein neues Timesheet/Ausgabe eingereicht wird, dann werden alle hinterlegten Genehmiger im Projekt
+sofort per E-Mail benachrichtigt. Die E-Mail enthält einen Link zum Timesheet/Ausgabe, das noch genehmigt werden muss.
+Unabhängig von der ersten Benachrichtigung können pro Genehmiger auch Erinnerungsmails eingestellt werden.
+Sie können für jeden Genehmiger im Projekt konfigurieren, an welchen Wochentagen der Genehmiger eine Erinnerungsmail
+erhalten soll. Die Erinnerungs-E-Mails werden dann immer um 06:22 UTC des jeweiligen Tages verschickt.
+
+Um dies zu konfigurieren, navigieren Sie im Projekt zu den Genehmigern und klicken Sie beim gewünschten Genehmiger auf "Bearbeiten". 
+Hier können Sie dann die Wochentage auswählen, an denen der Genehmiger eine Erinnerungsmail erhalten soll.
 
 ## Genehmiger mit Login
 
