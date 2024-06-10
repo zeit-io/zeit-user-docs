@@ -78,6 +78,8 @@ erhalten soll. Die Erinnerungs-E-Mails werden dann immer um 06:22 UTC des jeweil
 Um dies zu konfigurieren, navigieren Sie im Projekt zu den Genehmigern und klicken Sie beim gewünschten Genehmiger auf "Bearbeiten". 
 Hier können Sie dann die Wochentage auswählen, an denen der Genehmiger eine Erinnerungsmail erhalten soll.
 
+Die Standad-Einstellung für diese Checkboxen, können Sie in den Organisationseinstellungen unter "Genehmiger" vornehmen.
+
 ## Genehmiger mit Login
 
 Ein Genehmiger mit Login ist eine Person, die ein eigenes Benutzerkonto in ZEIT.IO hat. Das bedeutet, dass
