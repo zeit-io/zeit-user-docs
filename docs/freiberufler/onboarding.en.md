@@ -35,7 +35,7 @@ the contract offer can only be viewed in the login area. To do this, please clic
 following page and all you have to do is to choose a password and to accept the terms and conditions. 
 Here is an example for the registration page:
 
-![Registration page](../img/signup-de.png){ width=80% }
+![Registration page](../img/signup-en.png){ width=80% }
 
 If you change your email address on the registration form, another verification email will be sent out to the
 new email address. This is a security mechanism to ensure that the email address really belongs to you.
@@ -43,7 +43,7 @@ new email address. This is a security mechanism to ensure that the email address
 If you do not change the email address on this page and complete the registration process, then you will
 automatically signed-in and redirected to the welcome page. This looks, for example, like this:
 
-![Welcome page](../img/welcome-de.png)
+![Welcome page](../img/welcome-en.png)
 
 On the welcome page you can select your preferred language, time zone, date format and country.
 You can change these settings later. If you click "Save" on the page, then
@@ -63,14 +63,14 @@ A ZEIT.IO contract offer contains the most important key data for a successful c
 
 Here's an example:
 
-![Contract offer](../img/context-freelance/contract-offering-de.png){ width=100% }
+![Contract offer](../img/context-freelance/contract-offering-en.png){ width=100% }
 
 If you scroll further down the page, you will see a form that you can use to either
 reject or accept the offer. If you want to accept the offer, you need to provide further information about your 
 master data be made. For example, you must provide your own legal form, address, tax number and bank details.
 Here's an example:
 
-![Accept contract offer](../img/context-freelance/contract-offering-form-de.png)
+![Accept contract offer](../img/context-freelance/contract-offering-form-en.png)
 
 After accepting the contract offer, the project from the contract offer is visible for you and you
 can book times and expenses on it.
