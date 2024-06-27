@@ -100,10 +100,10 @@ eine Gutschrift ausstellen.
 
 ### Ich habe keine Gutschrift erhalten, obwohl mein Timesheet genehmigt wurde. Was kann ich tun?
 
-Wenn das Gutschriftverfahren zum Zeitpunkt der Genehmigung aktiviert war, dann wird in der Regel automatisch eine
-eine Gutschrift ausgestellt. In den meisten Fällen dauert dieser Prozess nur ein bis zwei Minuten. In seltenen Fällen
-kann es auch mal länger dauern. Wenn Sie nach 15 Minuten immer noch keine Gutschrift erhalten haben, dann kann das
-folgende Gründe haben:
+Wenn das Gutschriftverfahren zum Zeitpunkt der Genehmigung aktiviert war, dann wird in der Regel automatisch eine Gutschrift ausgestellt. 
+In den meisten Fällen dauert dieser Prozess nur ein bis zwei Minuten. 
+In seltenen Fällen kann es auch mal länger dauern. 
+Wenn Sie nach 15 Minuten immer noch keine Gutschrift erhalten haben, dann kann das folgende Gründe haben:
 
 - Das Gutschriftverfahren war zum Zeitpunkt der Genehmigung nicht aktiv.
 - Die Organisation (Ihr Kunde, der Aussteller der Gutschrift) hat eine verzögerte Gutschrift-Strategie konfiguriert.

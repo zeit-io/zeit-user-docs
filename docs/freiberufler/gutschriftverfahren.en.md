@@ -1,4 +1,4 @@
-# Credit note procedure
+[# Credit note procedure
 
 If you book times and expenses on a project that belongs to an organization, then there recorded items
 need to be checked and approved in an approval process. ZEIT.IO ensures
@@ -71,3 +71,36 @@ reference to “reverse charge” accordingly.
 
 The detection of “reverse charge” is based on the information in your master data. 
 That is why it is very important that you have stored your master data correctly and completely.
+
+### Is the credit note procedure an indication of bogus self-employment?
+
+No! The credit procedure itself is not a direct indication of bogus self-employment in Germany.
+Bogus self-employment refers to the legal classification of an employment relationship in which a person is considered 
+self-employed, although the actual circumstances point more towards dependent employment.
+
+### How often should I apply for permits?
+
+This is usually specified by the customer (organization).
+Most organizations run the approval process on a monthly basis.
+This means that you always submit your times and expenses for approval at the end of the month.
+But there are also organizations that carry out this process weekly or bi-weekly.
+
+### The credit note procedure was not activated at the time of approval. Can I still receive a credit afterwards?
+
+Yes, that is possible. First of all, make sure that the credit procedure is activated in your contract!
+If this is the case, then contact your contact person in the organization and ask for a credit note.
+The organization administrators can also issue a credit note retrospectively for approved timesheets and expenses.
+
+### I didn't receive a credit even though my timesheet was approved. What can I do?
+
+If the credit procedure was activated at the time of approval, then a credit is usually issued automatically.
+In most cases, this process only takes one to two minutes.
+In rare cases, it can take longer.
+If you still have not received a credit after 15 minutes, there may be the following reasons:
+
+- The credit procedure was not active at the time of approval.
+- The organization (your customer, the issuer of the credit) has configured a delayed credit strategy.
+  In this case, however, you should have received an automated email informing you when the credit will be issued.
+- There was an error issuing the credit.
+
+If you have any questions about this, please contact your contact in the organization.
