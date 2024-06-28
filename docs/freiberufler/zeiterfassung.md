@@ -18,33 +18,34 @@ Außerdem gibt es verschiedene Clients, mit denen Sie Ihre Zeiten erfassen könn
 
 ## Timer
 
-Am einfachsten ist die Erfassung über den Timer. Der Timer
-befindet sich im Login-Bereich immer links oben. Unabhängig vom Kontext in dem Sie sich befinden,
-ist der Timer immer an der gleichen Stelle. Hier sind die Funktionen des Timers grafisch dargestellt.
+Am einfachsten ist die Erfassung über den Timer. 
+Der Timer befindet sich im Login-Bereich immer links oben. 
+Unabhängig vom Kontext in dem Sie sich befinden, ist der Timer immer an der gleichen Stelle. 
+Hier sind die Funktionen des Timers grafisch dargestellt.
 
 ![Timer auf ZEIT.IO](../img/timer-functions.png)
 
-Sie können jederzeit den Timer starten, pausieren, fortsetzen und stoppen. Wenn Sie auf das Stop-Symbol klicken,
-dann öffnet sich ein modaler Dialog, in dem Sie die Buchung abschließen können. Erst am Ende der Buchung müssen Sie
-sich entscheiden auf welches Projekt Sie die Zeit buchen wollen. Das ist ein großer Vorteil, weil Sie sich nicht
-vorher festlegen müssen, sondern den einfach Timer starten und dann später entscheiden können, auf welches Projekt Sie die Zeit buchen.
+Sie können jederzeit den Timer starten, pausieren, fortsetzen und stoppen. 
+Wenn Sie auf das Stop-Symbol klicken, dann öffnet sich ein modaler Dialog, in dem Sie die Buchung abschließen können. 
+Erst am Ende der Buchung müssen Sie sich entscheiden auf welches Projekt Sie die Zeit buchen wollen. 
+Das ist ein großer Vorteil, weil Sie sich nicht vorher festlegen müssen, sondern den einfach Timer starten und dann später entscheiden können, auf welches Projekt Sie die Zeit buchen.
 
 Hier ein Beispiel für das modale Dialogfenster, das sich öffnet, wenn Sie den Timer stoppen:
 
 ![Timer-Modal](../img/context-freelance/timer-dialog-01-de.png)
 
-Bis auf "Dauer" sind alle Eingabefelder im modalen Dialog editierbar. Das bedeutet, dass Sie vor der Speicherung
-noch Anpassungen vornehmen können. Wenn Sie vergessen haben eine Pause zu tracken, dann können Sie diese hier problemlos
-nachtragen, und auch die Von-Bis-Zeiten nochmal anpassen.
+Bis auf "Dauer" sind alle Eingabefelder im modalen Dialog editierbar. 
+Das bedeutet, dass Sie vor der Speicherung noch Anpassungen vornehmen können. 
+Wenn Sie vergessen haben eine Pause zu tracken, dann können Sie diese hier problemlos nachtragen, und auch die Von-Bis-Zeiten nochmal anpassen.
 
-Das Eingabefeld für "Stundensatz" ist ein Dropdown-Feld. Abhängig vom Projekt kann sich auch der Stundensatz ändern.
-Wenn Sie in einem Projekt zwei oder mehr Stundensätze haben, dann können Sie hier den Stundensatz auswählen,
-für den Sie die Zeit buchen wollen. Meistens hat man nur einen Stundensatz pro Projekt und in dem Fall ist das
-Auswahlfeld dann "disabled". In vielen Projekten gibt es aber auch einen Stundensatz für Remote-Arbeit und einen
-für Onsite-Arbeit. In dem Fall können Sie hier den Stundensatz auswählen, der für die gebuchte Zeit gilt.
+Das Eingabefeld für "Stundensatz" ist ein Dropdown-Feld. 
+Abhängig vom Projekt kann sich auch der Stundensatz ändern.
+Wenn Sie in einem Projekt zwei oder mehr Stundensätze haben, dann können Sie hier den Stundensatz auswählen, für den Sie die Zeit buchen wollen. 
+Meistens hat man nur einen Stundensatz pro Projekt und in dem Fall ist das Auswahlfeld dann "disabled". 
+In vielen Projekten gibt es aber auch einen Stundensatz für Remote-Arbeit und einen für Onsite-Arbeit. 
+In dem Fall können Sie hier den Stundensatz auswählen, der für die gebuchte Zeit gilt.
 
-Wenn Sie auf "Speichern & Schließen" klicken, dann wird die Zeit gebucht, der Timer wird zurückgesetzt auf 00:00:00
-und das modale Dialog wird wieder geschlossen.
+Wenn Sie auf "Speichern & Schließen" klicken, dann wird die Zeit gebucht, der Timer wird zurückgesetzt auf 00:00:00 und das modale Dialog wird wieder geschlossen.
 
 ### Tastenkürzel für den Timer
 
@@ -55,8 +56,8 @@ Den Timer können Sie auch über die Tastatur steuern. Das funktioniert mit dies
 - **Fortsetzen**: `s`
 - **Stoppen**: `e`
 
-Das Formular im modalen Dialog kann mit der Tastenkombination `Strg + Enter` (`Command + Enter` auf Mac)
-abgeschickt werden. Damit lassen sich Zeiten sehr schnell erfassen, auch ohne Maus.
+Das Formular im modalen Dialog kann mit der Tastenkombination `Strg + Enter` (`Command + Enter` auf Mac) abgeschickt werden. 
+Damit lassen sich Zeiten sehr schnell erfassen, auch ohne Maus.
 
 
 ### Zeiten nacherfassen mit dem Timer
