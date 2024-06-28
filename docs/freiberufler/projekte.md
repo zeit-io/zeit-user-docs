@@ -15,8 +15,9 @@ Auf der Projektdetailseite sehen Sie folgende Informationen:
 - **Kennung**: Die eindeutige Kennung des Projekts, wie sie in der Anwendung verwendet wird.
 - **Projektname**: Der offizielle Name des Projekts, wie sie auf der Rechnung erscheinen soll.
 - **Projektbeschreibung**: Eine kurze Beschreibung des Projekts.
+- **Projekt-Zeitraum**: Projektstart und Projektende. Alle Buchungen (Zeit & Ausgaben) müssen innerhalb des Projekts-Zeitraums liegen. Außerdem sehen Sie hier, wie viele Tage noch bis zur Deadline des Projekts verbleiben.
 - **Mitgliedschaft-Zeitraum**: Der Zeitraum für Ihre persönliche Mitgliedschaft in dem Projekt. Das Projekt ist für Sie nur in diesem Zeitraum sichtbar.
-- **Zeitraum**: Projektstart und Projektende. Alle Buchungen (Zeit & Ausgaben) müssen innerhalb des Projekts-Zeitraums liegen. Außerdem sehen Sie hier, wie viele Tage noch bis zur Deadline des Projekts verbleiben.
 - **Stundenbudget**: Das Stundenbudget, das für das Projekt zur Verfügung steht, wie viele Stunden bereits gebucht wurden und wie viele Stunden noch verfügbar sind.
+- **Spesenbudget**: Das Budget für Spesen/Reisekosten, das für das Projekt zur Verfügung steht.
 - **Kontaktperson**: Wenn das Projekt zu einer Organisation gehört und im Projekt eine Kontaktperson hinterlegt ist, dann werden hier Name und Kontaktdetails der Kontaktperson eingeblendet. Bei Fragen zum Projekt können Sie sich an diese Kontaktperson wenden.
 - **Vertrag**: Wenn das Projekt zu einer Organisation gehört, dann sehen Sie hier den Vertrag, über den Sie Zugriff auf das Projekt haben. Wenn Sie auf den Vertrag klicken, dann sehen Sie die Vertragsdetails.
