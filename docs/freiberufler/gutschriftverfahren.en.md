@@ -1,4 +1,4 @@
-[# Credit note procedure
+# Credit note procedure
 
 If you book times and expenses on a project that belongs to an organization, then there recorded items
 need to be checked and approved in an approval process. ZEIT.IO ensures
