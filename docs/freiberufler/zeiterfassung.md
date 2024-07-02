@@ -67,9 +67,8 @@ Wenn dieser nicht läuft, also auf `00:00:00` steht, dann können Sie trotzdem a
 Dadurch öffnet sich das modale Dialogfenster und Sie können die Zeiten nacherfassen. Im linken oberen Bereich des
 modalen Dialogfensters können Sie auch das Datum auswählen, für das Sie die Zeiten nacherfassen wollen.
 
-Wenn Sie gleich mehrere Buchungen nacherfassen wollen, nutzen Sie gerne die "Speichern & Neu" Schaltfläche. Damit wird
-die aktuelle Buchung gespeichert und das modale Dialogfenster bleibt geöffnet, damit Sie gleich die nächste Buchung
-erfassen können.
+Wenn Sie gleich mehrere Buchungen nacherfassen wollen, nutzen Sie gerne die "Speichern & Neu" Schaltfläche. 
+Damit wird die aktuelle Buchung gespeichert und das modale Dialogfenster bleibt geöffnet, damit Sie gleich die nächste Buchung erfassen können.
 
 ### Zeiten nacherfassen mit dem Timer, wenn der Timer schon läuft
 
@@ -81,15 +80,15 @@ Nach dem Speichern läuft der Timer weiter.
 ## Kalender
 
 Wenn Sie im Hauptmenü auf "Zeiten" klicken und dann auf den Tab "Kalender", öffnet sich die Kalender-Ansicht.
-Der Kalender zeigt alle Buchungen an, die eine Start- und Stoppzeit haben. Das sind also alle Buchungen, die mit dem Timer
-erfasst wurden. Buchungen die keine Start- und Stoppzeit haben werden im Kalender nicht angezeigt!
+Der Kalender zeigt alle Buchungen an, die eine Start- und Stoppzeit haben. 
+Das sind also alle Buchungen, die mit dem Timer erfasst wurden. 
+Buchungen die keine Start- und Stoppzeit haben werden im Kalender nicht angezeigt!
 
-Die Zeiterfassung im Kalender funktioniert mit "drag & drop", d.h. Sie können die Zeiten  einfach per Maus
-im Kalender eintragen. Navigieren Sie im Kalender zu dem Tag für den Sie eine Buchung erfassen wollen. Klicken Sie
-dann auf die Startzeit, halten die Maustaste gedrückt, und ziehen Sie die Maus bis zur Endzeit. Wenn Sie die Maus
-loslassen,  öffnet sich das modale Dialogfenster für die Zeiterfassung und das Formular ist schon mit den
-richtigen Werten für Datum, Von- und Bis-Zeit gefüllt. Sie müssen dann nur noch das Projekt auswählen, einen
-Kommentar eingeben und auf "Speichern" klicken.
+Die Zeiterfassung im Kalender funktioniert mit "drag & drop", d.h. Sie können die Zeiten  einfach per Maus im Kalender eintragen. 
+Navigieren Sie im Kalender zu dem Tag für den Sie eine Buchung erfassen wollen. 
+Klicken Sie dann auf die Startzeit, halten die Maustaste gedrückt, und ziehen Sie die Maus bis zur Endzeit. 
+Wenn Sie die Maus loslassen, öffnet sich das modale Dialogfenster für die Zeiterfassung und das Formular ist schon mit den richtigen Werten für Datum, Von- und Bis-Zeit gefüllt. 
+Sie müssen dann nur noch das Projekt auswählen, einen Kommentar eingeben und auf "Speichern" klicken.
 
 Hier ein Beispiel für die Zeiterfassung im Kalender:
 
@@ -98,10 +97,9 @@ Hier ein Beispiel für die Zeiterfassung im Kalender:
 
 ## Stunden-Formular
 
-Das Stunden-Formular ist ein einfaches Formular, in dem Sie die Dauer (Stunden & Minuten) pro Projekt und Datum
-erfassen können. Das Formular könnnen Sie aufrufen, indem Sie im Hauptmenü auf "Zeiten" klicken und dann, rechts oben,
-auf den grünen Button "Stunden erfassen" klicken. Das öffnet einen Dropdown mit verschiedenen Optionen. Klicken Sie
-dann auf "Nacherfassen ohne Start/Stop".
+Das Stunden-Formular ist ein einfaches Formular, in dem Sie die Dauer (Stunden & Minuten) pro Projekt und Datum erfassen können. 
+Das Formular könnnen Sie aufrufen, indem Sie im Hauptmenü auf "Zeiten" klicken und dann, rechts oben, auf den grünen Button "Stunden erfassen" klicken. 
+Das öffnet einen Dropdown mit verschiedenen Optionen. Klicken Sie dann auf "Nacherfassen ohne Start/Stop".
 
 ![Nacherfassen ohne start/stop](../img/context-freelance/hour-form-01-de.png)
 
@@ -113,21 +111,21 @@ Damit öffnet sich das Stunden-Formular. Hier können Sie im Kalender ein Datum 
 
 ## Tages-Formular
 
-Mit dem Tages-Formular können Sie Ihre Aufwände tageweise erfassen. Dabei gehen wir davon aus, dass jeder Arbeitstag
-8 Stunden entspricht. Das Tages-Formular ist nur dann sichtbar, wenn Sie mindestens einen Vertrag haben, in dem ein
-Tagessatz vereinbart ist. Wenn Sie nur aktive Verträge mit Stundensätzen haben, wird das Tages-Formular nicht
-angezeigt!
+Mit dem Tages-Formular können Sie Ihre Aufwände tageweise erfassen. 
+Dabei gehen wir davon aus, dass jeder Arbeitstag 8 Stunden entspricht. 
+Das Tages-Formular ist nur dann sichtbar, wenn Sie mindestens einen Vertrag haben, in dem ein Tagessatz vereinbart ist. 
+Wenn Sie nur aktive Verträge mit Stundensätzen haben, wird das Tages-Formular nicht angezeigt!
 
-Wenn Sie einen Vertrag mit einer Tagessatz-Vereinbarung haben und im Hauptmenü auf "Zeiten" klicken, dann
-erscheint ein Tab "Tagessatz-Erfassung". Dieser Tab ist auch der erste Tab und bereits vorausgewählt.
+Wenn Sie einen Vertrag mit einer Tagessatz-Vereinbarung haben und im Hauptmenü auf "Zeiten" klicken, dann erscheint ein Tab "Tagessatz-Erfassung". 
+Dieser Tab ist auch der erste Tab und bereits vorausgewählt.
 
 Das Tages-Formular sieht wie folgt aus:
 
 ![Tagessatz-Erfassung-Formular](../img/context-freelance/day-form-01-de.png)
 
-Sie können auf der Seite das Projekt und den Leistungsmonat auswählen und dann die Anzahl der Arbeitstage pro Monat
-erfassen. Dazu klicken Sie einfach die Tage an, an denen Sie gearbeitet haben. Für jeden Arbeitstag erscheint dann 
-eine Zeile im Formular, in der Sie folgende drei Felder ausfüllen können:
+Sie können auf der Seite das Projekt und den Leistungsmonat auswählen und dann die Anzahl der Arbeitstage pro Monat erfassen. 
+Dazu klicken Sie einfach die Tage an, an denen Sie gearbeitet haben. 
+Für jeden Arbeitstag erscheint dann eine Zeile im Formular, in der Sie folgende drei Felder ausfüllen können:
 
 - **Dauer**: Hier können Sie angeben, ob Sie einen ganzen Tag (8 Stunden), einen halben Tag (4 Stunden), 
   oder nur einen viertel Tag (2 Stunden) gearbeitet haben.
@@ -142,13 +140,13 @@ Ganz unten auf der Seite können Sie auf "Speichern" klicken um die Arbeitstage 
 
 ### Was passiert mit dem Timer, wenn ich mich auslogge oder versehentlich das Fenster schließe?
 
-Die Startzeit des Timers wird auf dem Server gespeichert. Das bedeutet, dass der Timer auch dann weiterläuft, wenn Sie sich
-ausloggen, weshalb Sie sich also aus- und später wieder einloggen können und der Timer läuft weiter. Sie können auch
-den Timer starten, dann den Browser schließen und später wieder öffnen und der Timer läuft weiter. Er läuft
-also immer weiter, bis Sie ihn stoppen.
+Die Startzeit des Timers wird auf dem Server gespeichert. 
+Das bedeutet, dass der Timer auch dann weiterläuft, wenn Sie sich ausloggen, weshalb Sie sich also aus- und später wieder einloggen können und der Timer läuft weiter. 
+Sie können auch den Timer starten, dann den Browser schließen und später wieder öffnen und der Timer läuft weiter. 
+Er läuft also immer weiter, bis Sie ihn stoppen.
 
 ### Sind die Kommentare in der Zeiterfassung Pflicht?
 
-Ob die Kommentare für Zeitbuchungen verpflichtend sind oder nicht, wird immer im Projekt konfiguriert. Es kann also gut sein,
-dass die Kommentare für Zeitbuchungen für Projekt A verpflichtend sind, für Projekt B aber nicht. Das hängt immer von den 
-Anforderungen des Projekts ab.
+Ob die Kommentare für Zeitbuchungen verpflichtend sind oder nicht, wird immer im Projekt konfiguriert. 
+Es kann also gut sein, dass die Kommentare für Zeitbuchungen für Projekt A verpflichtend sind, für Projekt B aber nicht. 
+Das hängt immer von den Anforderungen des Projekts ab.

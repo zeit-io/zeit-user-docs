@@ -6,14 +6,12 @@ In ZEIT.IO gibt es einen Genehmigungsprozess für:
 - Zeiten, die Sie nach ZEIT.IO importiert haben.
 - Zeiten, die Sie außerhalb von ZEIT.IO erfasst haben.
 - Ausgaben/Spesen.
+- Festpreis-Pakete.
 
-Das Genehmigungsverfahren ist ein wichtiger Bestandteil der Zusammenarbeit zwischen Freiberuflern und Organisationen,
-und kann für jedes Mitglied im Projekt separat aktiviert werden.
+Das Genehmigungsverfahren ist ein wichtiger Bestandteil der Zusammenarbeit zwischen Freiberuflern und Organisationen, und kann für jedes Mitglied im Projekt separat aktiviert werden.
 
-Wenn das Genehmigungsverfahren für Ihre Projekt-Mitgliedschaft aktiviert ist, dann müssen Sie Ihre
-Zeiten und Ausgaben/Spesen erst genehmigen lassen, bevor sie in Rechnung gestellt werden, bzw. Sie dafür eine Gutschrift
-erhalten können. Dabei müssen Zeiten und Ausgaben immer getrennt eingereicht und genehmigt werden, weil es in großen
-Organisationen oft unterschiedliche Genehmiger für Zeiten und Ausgaben gibt.
+Wenn das Genehmigungsverfahren für Ihre Projekt-Mitgliedschaft aktiviert ist, dann müssen Sie Ihre Zeiten und Ausgaben/Spesen erst genehmigen lassen, bevor sie in Rechnung gestellt werden, bzw. Sie dafür eine Gutschrift erhalten können. 
+Dabei müssen Zeiten und Ausgaben immer getrennt eingereicht und genehmigt werden, weil es in großen Organisationen oft unterschiedliche Genehmiger für Zeiten und Ausgaben gibt.
 
 Wenn der Genehmigungsprozess für Ihre Projekt-Mitgliedschaft nicht aktiviert ist, dann sind alle
 Buchungen sofort genehmigt und können sofort in Rechnung gestellt werden.

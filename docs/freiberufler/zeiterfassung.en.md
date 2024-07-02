@@ -58,3 +58,92 @@ You can also control the timer using the keyboard. This works with these keyboar
 The form in the modal dialog can be sent using the keyboard shortcut `Ctrl + Enter` (`Command + Enter` on Mac).
 This allows you to record times very quickly, even without a mouse.
 
+## Re-enter times with the timer 
+
+You can also record times that you previously forgot. You don't have to start the timer separately for this.
+If it is not running, i.e. is set to `00:00:00`, you can still click on the stop symbol.
+This opens the modal dialog window and you can record the times. 
+In the upper left area of the modal dialog window you can also select the date for which you want to record the times.
+
+If you want to record several bookings at once, feel free to use the "Save & New" button.
+This saves the current booking and the modal dialog window remains open so that you can record the next booking straight away.
+
+### Re-enter times with the timer when the timer is already running
+
+If the timer is already running and you want to record times with start and stop times without stopping the running timer, you can use the fourth symbol in the row, the black square in the circle.
+This opens the modal dialog for time recording and you can record times with start and stop times.
+After saving, the timer continues to run.
+
+## Calendar
+
+If you click on "Times" in the main menu and then on the "Calendar" tab, the calendar view opens.
+The calendar shows all bookings that have a start and stop time.
+These are all bookings that were recorded with the timer.
+Bookings that do not have a start and stop time are not shown in the calendar!
+
+Time recording in the calendar works with "drag & drop", i.e. you can simply enter the times in the calendar using the mouse.
+Navigate in the calendar to the day for which you want to record a booking.
+Then click on the start time, hold down the mouse button, and drag the mouse to the end time.
+When you release the mouse, the modal dialog window for time recording opens and the form is already filled with the correct values for date, from and to time.
+All you have to do then is select the project, enter a comment and click "Save".
+
+Here is an example of time recording in the calendar:
+
+![Calendar](../img/context-freelance/calendar-01-en.gif)
+
+
+## Hourly form
+
+The hours form is a simple form in which you can record the duration (hours & minutes) per project and date.
+You can access the form by clicking on "Times" in the main menu and then, in the top right, clicking on the green button "Record hours".
+This opens a dropdown with various options. Then click on "Record without start/stop".
+
+![Record without start/stop](../img/context-freelance/hour-form-01-en.png)
+
+This opens the hours form. Here you can select a date in the calendar and then enter the duration (hours & minutes) per project. 
+The form looks like this:
+
+![Hourly form](../img/context-freelance/hour-form-02-en.png)
+
+
+## Daily form
+
+You can use the daily form to record your expenses on a daily basis.
+We assume that each working day corresponds to 8 hours.
+The daily form is only visible if you have at least one contract in which a daily rate is agreed.
+If you only have active contracts with hourly rates, the daily form will not be displayed!
+
+If you have a contract with a daily rate agreement and click on "Times" in the main menu, a "Daily rate recording" tab will appear.
+This tab is also the first tab and is already preselected.
+
+The daily form looks like this:
+
+![daily-recording-form](../img/context-freelance/day-form-01-de.png)
+
+You can select the project and the month of performance on the page and then enter the number of working days per month.
+To do this, simply click on the days you worked.
+A line will then appear in the form for each working day in which you can fill in the following three fields:
+
+- **Duration**: Here you can specify whether you worked a full day (8 hours), half a day (4 hours),
+  or just a quarter of a day (2 hours).
+- **Daily rate**: The second drop-down field is the daily rate. Here you can select whether you worked remotely or on-site.
+  This drop-down field only appears if you have agreed on several daily rates in the project.
+  If you only have one daily rate, then the field will not be displayed.
+- **Comment**: Here you can enter a short description of your work.
+
+At the very bottom of the page you can click on "Save" to save the working days.
+
+## FAQs
+
+### What happens to the timer if I log out or accidentally close the window?
+
+The start time of the timer is stored on the server.
+This means that the timer continues to run even if you log out, so you can log out and log back in later and the timer will continue to run.
+You can also start the timer, then close the browser and open it again later and the timer will continue to run.
+So it will keep running until you stop it.
+
+### Are the comments in time tracking mandatory?
+
+Whether the comments for time bookings are mandatory or not is always configured in the project.
+So it may well be that the comments for time bookings are mandatory for project A, but not for project B.
+It always depends on the requirements of the project.
