@@ -91,20 +91,20 @@ This background job deletes all data that is older than the specified deadline.
 **Data that has been deleted once cannot be restored!**
 If you set the value to 2 years, for example, all data that is older than 2 years will be deleted the next day at the latest.
 
-# Main menu
+## Main menu
 
 Here you can configure which menu items should be displayed in the main menu.
 
-# AddOns
+## AddOns
 
 Here you can activate AddOns for your organization.
 
-# API Key
+## API Key
 
 Here you can find the API key for your organization.
 With this API key you can use the ZEIT.IO API and access your data programmatically.
 
-# Audit logs
+## Audit logs
 
 Here you can find the audit logs for your organization.
 Here you can see who made which changes to the organization's settings and when.

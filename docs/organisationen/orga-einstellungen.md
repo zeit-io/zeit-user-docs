@@ -88,20 +88,20 @@ Dieser Background-Job löscht alle Daten, die älter sind als die festgelegte Fr
 **Einmal gelöschte Daten können nicht wiederhergestellt werden!**
 Wenn Sie den Wert z.B. auf 2 Jahre setzen, dann werden spätestens am nächsten Tag alle Daten gelöscht, die älter als 2 Jahre sind.
 
-# Hauptmenü
+## Hauptmenü
 
 Hier können Sie konfigurieren, welche Menüpunkte im Hauptmenü angezeigt werden sollen.
 
-# AddOns
+## AddOns
 
 Hier können Sie AddOns für Ihre Organisation aktivieren.
 
-# API Key
+## API Key
 
 Hier finden Sie den API Key für Ihre Organisation.
 Mit diesem API Key können Sie die ZEIT.IO API nutzen und programmatisch auf Ihre Daten zugreifen.
 
-# Auditlogs
+## Auditlogs
 
 Hier finden Sie die Auditlogs für Ihre Organisation.
 Hier können Sie sehen, wer wann welche Änderungen an den Einstellungen der Organisation vorgenommen hat.
