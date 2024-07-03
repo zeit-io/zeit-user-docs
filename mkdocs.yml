@@ -45,6 +45,8 @@ nav:
     - customers: "organisationen/kunden.en.md"
     - autoinvoicing: "organisationen/auto-invoicing.md"
     - autoinvoicing: "organisationen/auto-invoicing.en.md"
+    - orga-einstellungen: "organisationen/orga-einstellungen.md"
+    - orga-einstellungen: "organisationen/orga-einstellungen.en.md"
 
 markdown_extensions:
   - admonition
@@ -119,6 +121,7 @@ plugins:
           leistungsnachweise: "Leistungsnachweise"
           customers: "Kunden"
           autoinvoicing: "Auto-Ausgangsrechnungen"
+          orga-einstellungen: "Organisationseinstellungen"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -138,3 +141,4 @@ plugins:
           leistungsnachweise: "Certificate of achievements"
           customers: "Customers"
           autoinvoicing: "Auto-invoicing"
+          orga-einstellungen: "Organisation settings"
