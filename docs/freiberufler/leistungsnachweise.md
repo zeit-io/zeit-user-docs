@@ -1,7 +1,13 @@
 # Leistungsnachweise
 
-Leistungsnachweise werden verwendet, um Genehmigungen für gebuchte Zeiten anzufordern.
-Ein Leistungsnachweis ist immer eine Sammlung von gebuchten Zeiten (TimeRecords) in einem bestimmten Zeitraum,
+Leistungsnachweise werden verwendet, um Genehmigungen für:
+
+- Zeiten, die Sie direkt auf ZEIT.IO erfasst haben.
+- Zeiten, die Sie nach ZEIT.IO importiert haben.
+- Zeiten, die Sie außerhalb von ZEIT.IO erfasst haben.
+- Festpreis-Pakete, die Sie abgeschlossen haben.
+
+In den ersten zwei Fällen ist ein Leistungsnachweis immer eine Sammlung von gebuchten Zeiten (TimeRecords) in einem bestimmten Zeitraum,
 bezogen auf mindestens ein Projekt und eine einzelne Person.
 
 ## Zeiten genehmigen lassen (TimeRecords)
@@ -69,55 +75,47 @@ eine Rechnung dafür erstellt werden.
 
 ## Externen Leistungsnachweis genehmigen lassen
 
-Manchmal müssen Sie auch Zeiten genehmigen lassen, die Sie außerhalb von ZEIT.IO erfasst haben. Wenn der
-Endkunde darauf besteht, das Sie die Zeiten in seinem System erfasst werden müssen, dann können Sie die Zeiten
-trotzdem in ZEIT.IO zur Genehmigung einreichen. Dafür müssen Sie ihre gebuchten Zeiten aus dem anderen System
-exportieren, und in der Regel auch vom Kunden unterschreiben lassen. Dieses unterschrieben Dokument bezeichnen wir
-als LNW (Leistungsnachweis).
+Manchmal müssen Sie auch Zeiten genehmigen lassen, die Sie außerhalb von ZEIT.IO erfasst haben. 
+Wenn der Endkunde darauf besteht, das Sie die Zeiten in seinem System erfasst werden müssen, dann können Sie die Zeiten trotzdem in ZEIT.IO zur Genehmigung einreichen. 
+Dafür müssen Sie ihre gebuchten Zeiten aus dem anderen System exportieren, und in der Regel auch vom Kunden unterschreiben lassen. 
+Dieses unterschrieben Dokument bezeichnen wir als LNW (Leistungsnachweis).
 
-In ZEIT.IO können Sie dann Ihren LNW als PDF hochladen und bei der Agentur
-zur Genehmigung einreichen. Die Agentur mit der Sie zusammenarbeiten, wird den LNW nochmal prüfen und kann es
-dann final genehmigen oder ablehnen. Wenn Die Agentur den LNW genehmigt, und Sie am Gutschriftverfahren teilnehmen,
-dann wird automatisch eine Gutschrift für die genehmigten Leistungen ausgestellt und Ihnen zugestellt werden.
-Sie müssen dann keine Rechnung mehr schreiben. Der Prozess dafür sieht dann so aus:
+In ZEIT.IO können Sie dann Ihren LNW als PDF hochladen und bei der Agentur zur Genehmigung einreichen. 
+Die Agentur mit der Sie zusammenarbeiten, wird den LNW nochmal prüfen und kann es dann final genehmigen oder ablehnen. 
+Wenn Die Agentur den LNW genehmigt, und Sie am Gutschriftverfahren teilnehmen, dann wird automatisch eine Gutschrift für die genehmigten Leistungen ausgestellt und Ihnen zugestellt werden.
+Sie müssen dann keine Rechnung mehr schreiben. 
+Der Prozess dafür sieht dann so aus:
 
 ![LNW upload auf ZEIT.IO](../img/context-freelance/supplier-lnw-upload-de.png)
 
-Wenn Sie einen unterschriebenen LNW haben und hochladen wollen, dann klicken Sie im Hauptmenü auf "Leistungsnachweise"
-und dann auf "Neuen Leistungsnachweis einreichen". Auf der nächsten Seite haben Sie verschiedene Optionen.
+Wenn Sie einen unterschriebenen LNW haben und hochladen wollen, dann klicken Sie im Hauptmenü auf "Leistungsnachweise" und dann auf "Neuen Leistungsnachweis einreichen". 
+Auf der nächsten Seite haben Sie verschiedene Optionen.
 Wählen Sie hier bitte die Option "Upload".
 
 ![LNW upload auf ZEIT.IO](../img/context-freelance/approval-05-de.png)
 
-Auf der nächsten Seite können Sie dann den LNW hochladen, einem Projekt zuordnen, die Anzahl der Stunden eintragen
-und optional noch einen Kommentar hinzufügen. Mit dem Klick auf "Genehmigung beantragen" wird der LNW dann
-zur Genehmigung eingereicht.
+Auf der nächsten Seite können Sie dann den LNW hochladen, einem Projekt zuordnen, die Anzahl der Stunden eintragen und optional noch einen Kommentar hinzufügen. 
+Mit dem Klick auf "Genehmigung beantragen" wird der LNW dann zur Genehmigung eingereicht.
 
 ![LNW upload auf ZEIT.IO](../img/context-freelance/approval-06-de.png)
 
-Die Personen die im Projekt als Genehmiger hinterlegt sind, werden per E-Mail über den neuen Leistungsnachweis
-informiert und können ihn dann kommentieren, genehmigen oder ablehnen. Die Genehmiger werden dann prüfen, ob die
-Angaben aus dem Formular mit den Angaben in der PDF übereinstimmen und ob der LNW korrekt unterschrieben ist.
+Die Personen die im Projekt als Genehmiger hinterlegt sind, werden per E-Mail über den neuen Leistungsnachweis informiert und können ihn dann kommentieren, genehmigen oder ablehnen. 
+Die Genehmiger werden dann prüfen, ob die Angaben aus dem Formular mit den Angaben in der PDF übereinstimmen und ob der LNW korrekt unterschrieben ist.
 Sie werden dann per E-Mail benachrichtigt, sobald der Leistungsnachweis bearbeitet wurde.
 
 !!! Info
-    Sofern Sie am Gutschriftverfahren teilnehmen, wird direkt nach der Genehmigung des
-    Leistungsnachweises, eine Gutschrift für die genehmigten Leistungen erstellt und an ihre primäre
-    E-Mail-Adresse verschickt. Wenn Sie Fragen zum Gutschritverfahren haben, dann lesen Sie
-    sich bitte den [FAQ-Abschnitt im Gutschriftverfahren](/freiberufler/gutschriftverfahren/#faqs) durch.
+    Sofern Sie am Gutschriftverfahren teilnehmen, wird direkt nach der Genehmigung des Leistungsnachweises, eine Gutschrift für die genehmigten Leistungen erstellt und an ihre primäre E-Mail-Adresse verschickt. 
+    Wenn Sie Fragen zum Gutschritverfahren haben, dann lesen Sie sich bitte den [FAQ-Abschnitt im Gutschriftverfahren](/freiberufler/gutschriftverfahren/#faqs) durch.
 
 
 ## FAQs
 
 ### Wieso kann ich meine eingereichten Zeiten nicht bearbeiten oder löschen?
 
-Solange die Zeitbuchungen (TimeRecords) sich auf einem zu genehmigenden Leistungsnachweis befinden, können diese
-nicht bearbeitet oder gelöscht werden. Wenn der Leistungsnachweis abgelehnt wird, dann werden die
-Zeitbuchungen (TimeRecords) wieder freigegeben zur Bearbeitung, damit Sie die Möglichkeit haben,
-die Zeitbuchungen (TimeRecords) zu korrigieren und erneut zur Genehmigung einzureichen.
+Solange die Zeitbuchungen (TimeRecords) sich auf einem zu genehmigenden Leistungsnachweis befinden, können diese nicht bearbeitet oder gelöscht werden. 
+Wenn der Leistungsnachweis abgelehnt wird, dann werden die Zeitbuchungen (TimeRecords) wieder freigegeben zur Bearbeitung, damit Sie die Möglichkeit haben, die Zeitbuchungen (TimeRecords) zu korrigieren und erneut zur Genehmigung einzureichen.
 
 ### Wie kann ich einen Leistungsnachweis (LNW) bearbeiten oder löschen?
 
-Einen eingereichten Leistungsnachweis können Sie nicht löschen! Solange der Leistungsnachweis noch nicht genehmigt
-wurde, können Sie ihn aber löschen. Mit der Löschung ziehen Sie den Leistungsnachweis zurück und damit werden auch
-die Zeitbuchungen (TimeRecords) wieder freigegeben zur Bearbeitung.
+Einen eingereichten Leistungsnachweis können Sie nicht löschen! Solange der Leistungsnachweis noch nicht genehmigt wurde, können Sie ihn aber löschen. 
+Mit der Löschung ziehen Sie den Leistungsnachweis zurück und damit werden auch die Zeitbuchungen (TimeRecords) wieder freigegeben zur Bearbeitung.

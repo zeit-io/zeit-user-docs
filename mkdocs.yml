@@ -138,7 +138,7 @@ plugins:
           vacations: "Vacations"
           empployee_contracts: "Employee contracts"
           genehmigungsverfahren: "Approval procedure"
-          leistungsnachweise: "Certificate of achievements"
+          leistungsnachweise: "Proof of performance"
           customers: "Customers"
           autoinvoicing: "Auto-invoicing"
           orga-einstellungen: "Organisation settings"
