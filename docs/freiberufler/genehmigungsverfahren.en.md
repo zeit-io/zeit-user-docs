@@ -23,7 +23,7 @@ bookings are immediately approved and can be invoiced immediately.
 
 The following chapters describe how you can apply for a permit:
 
-- [Get times approved (TimeRecords)](/freiberufler/leistungsnachweise.en/#zeiten-genehmigen-lassen-timerecords)
-- [Get external performance proof approved](/freiberufler/leistungsnachweise/#externen-leistungsnachweis-genehmigen-lassen.en)
+- [Get times approved (TimeRecords)](/freiberufler/leistungsnachweise.en/#get-times-approved-timerecords)
+- [Get external performance proof approved](/freiberufler/leistungsnachweise.en/#have-external-proof-of-performance-approved)
 - [Get expenses approved](/freiberufler/ausgaben.en/#get-expenses-approved)
 - [Get fixed price packages approved](/freiberufler/projekte.en/#request-approval-for-a-fixed-price-package)
