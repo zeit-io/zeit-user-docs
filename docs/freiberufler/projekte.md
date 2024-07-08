@@ -64,4 +64,4 @@ Wenn Sie auf den Button klicken, dann öffnet sich ein Dialog, in dem Sie die Ge
 ![Aktivitäten](../img/context-freelance/project-fpp-table-de.png)
 
 Pakete, für die bereits eine Genehmigung beantragt wurde, erscheint ein Link zum Leistungsnachweis.
-Und ein Paket bereits genehmigt wurde, dann erscheint in der Zeile ein Link zur Gutschrift.
+Und wenn ein Paket bereits genehmigt wurde, dann erscheint in der Zeile der Link zur Gutschrift.
