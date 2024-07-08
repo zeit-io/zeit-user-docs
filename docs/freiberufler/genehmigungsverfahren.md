@@ -7,6 +7,7 @@ In ZEIT.IO gibt es einen Genehmigungsprozess für:
 - Zeiten, die Sie außerhalb von ZEIT.IO erfasst haben.
 - Ausgaben/Spesen.
 - Festpreis-Pakete.
+- Hochgeladene Rechnungen.
 
 Das Genehmigungsverfahren ist ein wichtiger Bestandteil der Zusammenarbeit zwischen Freiberuflern und Organisationen, und kann für jedes Mitglied im Projekt separat aktiviert werden.
 
@@ -24,4 +25,5 @@ In den folgenden Kapiteln wird beschrieben, wie Sie eine Genehmigung beantragen 
 
 - [Zeiten genehmigen lassen (TimeRecords)](/freiberufler/leistungsnachweise/#zeiten-genehmigen-lassen-timerecords)
 - [Externen Leistungsnachweis genehmigen lassen](/freiberufler/leistungsnachweise/#externen-leistungsnachweis-genehmigen-lassen)
-- [Ausgaben/Spesen genehmigen lassen](/freiberufler/ausgaben/#ausgabenspesen-genehmigen-lassen)
+- [Ausgaben/Spesen genehmigen lassen](/freiberufler/ausgaben/#ausgaben-genehmigen-lassen)
+- [Festpreis-Pakete genehmigen lassen](/freiberufler/projekte/#genehmigung-anfordern-fur-ein-festpreis-paket)

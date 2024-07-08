@@ -7,6 +7,7 @@ In ZEIT.IO there is an approval process for:
 - Times that you have recorded outside of ZEIT.IO.
 - Expenses.
 - Fixed price packages.
+- Uploaded invoices.
 
 The approval process is an important part of the collaboration between freelancers and organizations and can be activated separately for each member in the project.
 
@@ -22,6 +23,7 @@ bookings are immediately approved and can be invoiced immediately.
 
 The following chapters describe how you can apply for a permit:
 
-- [Get times approved (TimeRecords)](/freiberufler/leistungsnachweise/#zeiten-genehmigen-lassen-timerecords.en)
+- [Get times approved (TimeRecords)](/freiberufler/leistungsnachweise.en/#zeiten-genehmigen-lassen-timerecords)
 - [Get external performance proof approved](/freiberufler/leistungsnachweise/#externen-leistungsnachweis-genehmigen-lassen.en)
 - [Get expenses approved](/freiberufler/ausgaben.en/#get-expenses-approved)
+- [Get fixed price packages approved](/freiberufler/projekte.en/#request-approval-for-a-fixed-price-package)
