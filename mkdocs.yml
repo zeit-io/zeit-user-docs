@@ -35,6 +35,8 @@ nav:
   - organisations_context:
     - common: 'organisationen/index.md'
     - common: 'organisationen/index.en.md'
+    - projects: 'organisationen/projekte.md'
+    - projects: 'organisationen/projekte.en.md'
     - approver: 'organisationen/genehmiger.md'
     - approver: 'organisationen/genehmiger.en.md'
     - empployee_contracts: 'organisationen/mitarbeiter_vertraege.md'

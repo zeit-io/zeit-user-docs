@@ -211,6 +211,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.zeit.io/organisationen/projekte.en/</loc>
+         <lastmod>2024-07-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.zeit.io/organisationen/projekte/</loc>
+         <lastmod>2024-07-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.zeit.io/organisationen/urlaube.en/</loc>
          <lastmod>2024-07-08</lastmod>
          <changefreq>daily</changefreq>
