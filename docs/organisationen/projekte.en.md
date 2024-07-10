@@ -118,18 +118,28 @@ In that case, the budgets can also be exceeded.
 ### Project number & order number
 
 Projects can optionally have a project number and an order number.
-In the organization settings, you can configure whether these fields should be mandatory or not.
-By default, these fields are not mandatory.
 
-If a project number or order number is stored, then this will also be used on outgoing invoices and credit notes.
-In addition, the following elements can also be filtered by project number and/or order number:
+In the organization settings, under the item "General", you can configure the order number to be a mandatory field.
+If this option is activated, an order number must be entered when creating a new project!
+This has no effect on existing projects.
+The same option is also available for the project number.
+The project number can also be configured as a mandatory field.
+
+However, these fields are not mandatory by default.
+
+If a project number or order number is entered, this is also used on outgoing invoices and credit notes.
+In addition, objects assigned to the project can also be filtered by project number and/or order number.
+This includes the following objects:
 
 - Times (TimeRecords)
 - Expenses/travel costs
-- Proof of performance (timesheets)
+- Proof of work (timesheets)
 - Outgoing invoices
 - Incoming invoices
 - Credit notes
+
+If the order number/project number is changed in the project, the change is also applied to all of the objects mentioned above.
+This ensures that filtering by project number/order number is always correct.
 
 ### Interval
 

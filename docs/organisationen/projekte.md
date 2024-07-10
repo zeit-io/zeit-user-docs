@@ -113,11 +113,18 @@ In dem Fall können die Budgets auch überschritten werden.
 ### Projektnummer & Bestellnummer
 
 Projekte können optional eine Projektnummer und eine Bestellnummer haben.
-In den Orga-Einstellungen kann konfiguriert werden, ob diese Felder Pflichtfelder sein sollen oder nicht.
-Standardmäßig sind diese Felder keine Pflichtfelder.
+
+In den Einstellungen der Organisation, unter dem Punkt "Allgemein", kann konfiguriert werden, das die Bestellnummer ein Pflichtfeld sein soll.
+Wenn diese Option aktiviert ist, dann muss bei der Erstellung eines neuen Projektes zwingend eine Bestellnummer hinterlegt werden!
+Auf bereits bestehende Projekte hat dies erstmal keine Auswirkungen.
+Die gleiche Option gibt es auch für die Projektnummer.
+Auch die Projektnummer kann als Pflichtfeld konfiguriert werden.
+
+Standardmäßig sind diese Felder aber keine Pflichtfelder.
 
 Wenn eine Projektnummer oder Bestellnummer hinterlegt ist, dann wird diese auch auf Ausgangsrechnungen und Gutschriften verwendet.
-Ausserdem können dann die folgenden Elemente ebenfalls nach Projektnummer und/oder Bestellnummer gefiltert werden:
+Außerdem können dann Objekte, die dem Projekt zugeordnet sind, ebenfalls nach Projektnummer und/oder Bestellnummer gefiltert werden.
+Dazu gehören folgende Objekte:
 
 - Zeiten (TimeRecords)
 - Ausgaben/Reisekosten
@@ -125,6 +132,9 @@ Ausserdem können dann die folgenden Elemente ebenfalls nach Projektnummer und/o
 - Ausgangsrechnungen
 - Eingangsrechnungen
 - Gutschriften
+
+Wenn die Bestellnummer/Projektnummer im Projekt geändert wird, dann wird die Änderung auch auf alle oben genannten Objekte übernommen.
+Somit ist sichergestellt, dass die Filterung nach Projektnummer/Bestellnummer immer korrekt ist.
 
 ### Intervall
 
