@@ -1352,18 +1352,23 @@ Alle Buchungen (Zeiten, Ausgaben, Festpreis-Pakete) müssen innerhalb des Projek
 Buchungen, die außerhalb des Projekt-Zeitraums liegen, können nicht auf das Projekt gebucht werden.
 Start- und Ende-Date können jederzeit geändert werden.</p>
 <h3 id="budgets">Budgets</h3>
-<p>Ein Projekt hat immer ein Stunden-Budget und ein Gesamt-Währungs-Budget.
-Das Stundenbudget ist die Anzahl der Stunden, die maximal auf das Projekt gebucht werden dürfen.
-Das Gesamt-Währungs-Budget ist der Betrag, der für das Projekt zur Verfügung steht.
-Das Gesamt-Währungs-Budget ist die Summe der folgenden drei Budgets:</p>
+<p>Projekte auf ZEIT.IO haben folgende Budgets:</p>
 <ul>
-<li><strong>Budget (Zeiterfassung)</strong>: Das Währungs-Budget für die Zeiterfassung.</li>
-<li><strong>Budget (Ausgaben)</strong>: Das Währungs-Budget für die Ausgaben.</li>
-<li><strong>Budget (Festpreis-Pakete)</strong>: Das Währungs-Budget für die Festpreis-Pakete.</li>
+<li><strong>Stundenbudget</strong>: Die Anzahl der Stunden, die maximal auf das Projekt gebucht werden dürfen.</li>
+<li><strong>Budget (Zeiterfassung)</strong>: Das Währungs-Budget für Zeiterfassung. Diese Summer ergibt sich in der Regel aus dem Stundenbudget multipliziert mit dem durchschnittlichen VK-Stundensatz.</li>
+<li><strong>Budget (Ausgaben)</strong>: Das Währungs-Budget für Ausgaben/Reisekosten.</li>
+<li><strong>Budget (Festpreis-Pakete)</strong>: Das Währungs-Budget für Festpreis-Pakete.</li>
+<li><strong>Budget (Gesamt)</strong>: Die Summe der drei Währungs-Budgets (Zeiterfassung, Ausgaben, Festpreis-Pakete).</li>
 </ul>
-<p>Standardmäßig stellt ZEIT.IO auch sicher, dass diese Budgets nicht überschritten werden.
-Es sei denn die Option für "Überbuchungen erlauben" ist aktiviert.
+<p>Standardmäßig stellt ZEIT.IO sicher, dass diese Budgets eingehalten werden.
+Wenn eine Buchung eines der Budgets überschreiten würde, dann wird die Buchung abgelehnt.
+Es sei denn, die Option für "Überbuchungen erlauben" ist aktiviert.
 In dem Fall können die Budgets auch überschritten werden.</p>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>Wenn Zeiten auf das Projekt gebucht werden sollen, dann müssen zwingend Stundenbudget und Budget (Zeiterfassung) hinterlegt sein.
+Beide Felder müssen in dem Fall größer als 0 sein. Wenn eines der zwei Felder 0 ist, dann können keine Zeiten auf das Projekt gebucht werden!</p>
+</div>
 <h3 id="projektnummer-bestellnummer">Projektnummer &amp; Bestellnummer</h3>
 <p>Projekte können optional eine Projektnummer und eine Bestellnummer haben.</p>
 <p>In den Einstellungen der Organisation, unter dem Punkt "Allgemein", kann konfiguriert werden, das die Bestellnummer ein Pflichtfeld sein soll.
@@ -1406,7 +1411,8 @@ Der Ansprechpartner kann verwendet werden, um eine Kontaktperson für das Projek
 <h3 id="dynamische-felder">Dynamische Felder</h3>
 <p>Projekte können optional dynamische Felder haben.
 Wenn Sie bestimmte Informationen zum Projekt hinterlegen wollen, die nicht in den Standardfeldern abgebildet sind, dann können Sie das mit dynamischen Felder machen.
-Dynamische Felder bestehen immer aus einem Key-Value Paar. Der ist der Bezeichner und der Wert ist der Inhalt.</p>
+Dynamische Felder bestehen immer aus einem sogenannten "Key-Value" Paar. 
+Wobei der "Key" der Bezeichner ist und der "Value" der Inhalt.</p>
 <p>Die dynamischen Felder aus dem Projekt werden automatisch in Ausgangsrechnungen übernommen und tauchen auf den Ausgangsrechnungen rechts oben auf.
 Wenn Ihr Kunde neben Projektnummer und Bestellnummer weitere Nummern auf der Rechnung sehen möchte, z.B. eine ganz bestimmte SAP Nummer, dann können Sie das mit dynamischen Feldern realisieren.</p>
 <p>Die dynamischen Felder werden <strong>nicht</strong> auf Gutschriften übernommen.

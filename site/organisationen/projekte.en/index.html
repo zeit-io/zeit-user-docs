@@ -1356,18 +1356,23 @@ All bookings (times, expenses, fixed price packages) must be within the project 
 Bookings that are outside the project period cannot be booked to the project.
 Start and end dates can be changed at any time.</p>
 <h3 id="budgets">Budgets</h3>
-<p>A project always has an hourly budget and a total currency budget.
-The hourly budget is the maximum number of hours that can be booked to the project.
-The total currency budget is the amount available for the project.
-The total currency budget is the sum of the following three budgets:</p>
+<p>Projects on ZEIT.IO have the following budgets:</p>
 <ul>
-<li><strong>Budget (time tracking)</strong>: The currency budget for time tracking.</li>
-<li><strong>Budget (expenses)</strong>: The currency budget for expenses.</li>
-<li><strong>Budget (fixed price packages)</strong>: The currency budget for the fixed price packages.</li>
+<li><strong>Hourly budget</strong>: The maximum number of hours that can be booked on the project.</li>
+<li><strong>Budget (time tracking)</strong>: The currency budget for time tracking. This sum is usually the hourly budget multiplied by the average hourly sales rate.</li>
+<li><strong>Budget (expenses)</strong>: The currency budget for expenses/travel costs.</li>
+<li><strong>Budget (fixed price packages)</strong>: The currency budget for fixed price packages.</li>
+<li><strong>Budget (total)</strong>: The sum of the three currency budgets (time tracking, expenses, fixed price packages).</li>
 </ul>
-<p>By default, ZEIT.IO also ensures that these budgets are not exceeded.
+<p>By default, ZEIT.IO ensures that these budgets are adhered to.
+If a booking would exceed one of the budgets, the booking will be rejected.
 Unless the option for "Allow overbookings" is activated.
-In that case, the budgets can also be exceeded.</p>
+In this case, the budgets can also be exceeded.</p>
+<div class="admonition info">
+<p class="admonition-title">Info</p>
+<p>If times are to be booked to the project, then the hourly budget and budget (time recording) must be stored.
+In this case, both fields must be greater than 0. If one of the two fields is 0, then no times can be booked to the project!</p>
+</div>
 <h3 id="project-number-order-number">Project number &amp; order number</h3>
 <p>Projects can optionally have a project number and an order number.</p>
 <p>In the organization settings, under the item "General", you can configure the order number to be a mandatory field.
@@ -1410,7 +1415,8 @@ The contact person can be used to store a contact person for the project.</p>
 <h3 id="dynamic-fields">Dynamic fields</h3>
 <p>Projects can optionally have dynamic fields.
 If you want to store certain information about the project that is not shown in the standard fields, you can do this with dynamic fields.
-Dynamic fields always consist of a key-value pair. This is the identifier and the value is the content.</p>
+Dynamic fields always consist of a key-value pair.
+Where the "key" is the identifier and the "value" is the content.</p>
 <p>The dynamic fields from the project are automatically transferred to outgoing invoices and appear on the top right of the outgoing invoices.
 If your customer wants to see other numbers on the invoice in addition to the project number and order number, e.g. a very specific SAP number, you can do this with dynamic fields.</p>
 <p>The dynamic fields are <strong>not</strong> transferred to credit notes.
