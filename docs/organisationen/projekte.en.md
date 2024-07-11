@@ -102,18 +102,22 @@ Start and end dates can be changed at any time.
 
 ### Budgets
 
-A project always has an hourly budget and a total currency budget.
-The hourly budget is the maximum number of hours that can be booked to the project.
-The total currency budget is the amount available for the project.
-The total currency budget is the sum of the following three budgets:
+Projects on ZEIT.IO have the following budgets:
 
-- **Budget (time tracking)**: The currency budget for time tracking.
-- **Budget (expenses)**: The currency budget for expenses.
-- **Budget (fixed price packages)**: The currency budget for the fixed price packages.
+- **Hourly budget**: The maximum number of hours that can be booked on the project.
+- **Budget (time tracking)**: The currency budget for time tracking. This sum is usually the hourly budget multiplied by the average hourly sales rate.
+- **Budget (expenses)**: The currency budget for expenses/travel costs.
+- **Budget (fixed price packages)**: The currency budget for fixed price packages.
+- **Budget (total)**: The sum of the three currency budgets (time tracking, expenses, fixed price packages).
 
-By default, ZEIT.IO also ensures that these budgets are not exceeded.
+By default, ZEIT.IO ensures that these budgets are adhered to.
+If a booking would exceed one of the budgets, the booking will be rejected.
 Unless the option for "Allow overbookings" is activated.
-In that case, the budgets can also be exceeded.
+In this case, the budgets can also be exceeded.
+
+!!! Info
+    If times are to be booked to the project, then the hourly budget and budget (time recording) must be stored.
+    In this case, both fields must be greater than 0. If one of the two fields is 0, then no times can be booked to the project!
 
 ### Project number & order number
 
@@ -172,7 +176,8 @@ The contact person can be used to store a contact person for the project.
 
 Projects can optionally have dynamic fields.
 If you want to store certain information about the project that is not shown in the standard fields, you can do this with dynamic fields.
-Dynamic fields always consist of a key-value pair. This is the identifier and the value is the content.
+Dynamic fields always consist of a key-value pair.
+Where the "key" is the identifier and the "value" is the content.
 
 The dynamic fields from the project are automatically transferred to outgoing invoices and appear on the top right of the outgoing invoices.
 If your customer wants to see other numbers on the invoice in addition to the project number and order number, e.g. a very specific SAP number, you can do this with dynamic fields.

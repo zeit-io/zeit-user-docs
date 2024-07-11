@@ -97,18 +97,22 @@ Start- und Ende-Date können jederzeit geändert werden.
 
 ### Budgets
 
-Ein Projekt hat immer ein Stunden-Budget und ein Gesamt-Währungs-Budget.
-Das Stundenbudget ist die Anzahl der Stunden, die maximal auf das Projekt gebucht werden dürfen.
-Das Gesamt-Währungs-Budget ist der Betrag, der für das Projekt zur Verfügung steht.
-Das Gesamt-Währungs-Budget ist die Summe der folgenden drei Budgets:
+Projekte auf ZEIT.IO haben folgende Budgets:
 
-- **Budget (Zeiterfassung)**: Das Währungs-Budget für die Zeiterfassung.
-- **Budget (Ausgaben)**: Das Währungs-Budget für die Ausgaben.
-- **Budget (Festpreis-Pakete)**: Das Währungs-Budget für die Festpreis-Pakete.
+- **Stundenbudget**: Die Anzahl der Stunden, die maximal auf das Projekt gebucht werden dürfen.
+- **Budget (Zeiterfassung)**: Das Währungs-Budget für Zeiterfassung. Diese Summer ergibt sich in der Regel aus dem Stundenbudget multipliziert mit dem durchschnittlichen VK-Stundensatz.
+- **Budget (Ausgaben)**: Das Währungs-Budget für Ausgaben/Reisekosten.
+- **Budget (Festpreis-Pakete)**: Das Währungs-Budget für Festpreis-Pakete.
+- **Budget (Gesamt)**: Die Summe der drei Währungs-Budgets (Zeiterfassung, Ausgaben, Festpreis-Pakete).
 
-Standardmäßig stellt ZEIT.IO auch sicher, dass diese Budgets nicht überschritten werden.
-Es sei denn die Option für "Überbuchungen erlauben" ist aktiviert.
+Standardmäßig stellt ZEIT.IO sicher, dass diese Budgets eingehalten werden.
+Wenn eine Buchung eines der Budgets überschreiten würde, dann wird die Buchung abgelehnt.
+Es sei denn, die Option für "Überbuchungen erlauben" ist aktiviert.
 In dem Fall können die Budgets auch überschritten werden.
+
+!!! Info
+    Wenn Zeiten auf das Projekt gebucht werden sollen, dann müssen zwingend Stundenbudget und Budget (Zeiterfassung) hinterlegt sein.
+    Beide Felder müssen in dem Fall größer als 0 sein. Wenn eines der zwei Felder 0 ist, dann können keine Zeiten auf das Projekt gebucht werden!
 
 ### Projektnummer & Bestellnummer
 
@@ -167,7 +171,8 @@ Der Ansprechpartner kann verwendet werden, um eine Kontaktperson für das Projek
 
 Projekte können optional dynamische Felder haben.
 Wenn Sie bestimmte Informationen zum Projekt hinterlegen wollen, die nicht in den Standardfeldern abgebildet sind, dann können Sie das mit dynamischen Felder machen.
-Dynamische Felder bestehen immer aus einem Key-Value Paar. Der ist der Bezeichner und der Wert ist der Inhalt.
+Dynamische Felder bestehen immer aus einem sogenannten "Key-Value" Paar. 
+Wobei der "Key" der Bezeichner ist und der "Value" der Inhalt.
 
 Die dynamischen Felder aus dem Projekt werden automatisch in Ausgangsrechnungen übernommen und tauchen auf den Ausgangsrechnungen rechts oben auf.
 Wenn Ihr Kunde neben Projektnummer und Bestellnummer weitere Nummern auf der Rechnung sehen möchte, z.B. eine ganz bestimmte SAP Nummer, dann können Sie das mit dynamischen Feldern realisieren.
