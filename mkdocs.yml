@@ -47,6 +47,8 @@ nav:
     - customers: "organisationen/kunden.en.md"
     - autoinvoicing: "organisationen/auto-invoicing.md"
     - autoinvoicing: "organisationen/auto-invoicing.en.md"
+    - rechnungsausgang: "organisationen/rechnungsausgang.md"
+    - rechnungsausgang: "organisationen/rechnungsausgang.en.md"
     - orga-einstellungen: "organisationen/orga-einstellungen.md"
     - orga-einstellungen: "organisationen/orga-einstellungen.en.md"
 
@@ -123,6 +125,7 @@ plugins:
           leistungsnachweise: "Leistungsnachweise"
           customers: "Kunden"
           autoinvoicing: "Auto-Ausgangsrechnungen"
+          rechnungsausgang: "Rechnungsausgang"
           orga-einstellungen: "Organisationseinstellungen"
         en:
           common: "Common"
@@ -143,4 +146,5 @@ plugins:
           leistungsnachweise: "Proof of performance"
           customers: "Customers"
           autoinvoicing: "Auto-invoicing"
+          rechnungsausgang: "Outgoing invoices"
           orga-einstellungen: "Organisation settings"
