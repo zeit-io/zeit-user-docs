@@ -202,3 +202,10 @@ If a project is not billable, then time, expenses and fixed price packages booke
 Projects that are not billable do not appear in the billing module either.
 
 The default setting is that projects are billable.
+
+### Overbookable
+
+Projects can optionally be configured to allow overbookings.
+By default, overbookings are not allowed and ZEIT.IO ensures that all budgets are adhered to.
+If a booking exceeds the hourly budget or one of the currency budgets, the booking is rejected.
+However, if the checkbox for "Allow overbookings" is activated, the budgets can also be exceeded.

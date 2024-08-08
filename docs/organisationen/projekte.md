@@ -198,3 +198,10 @@ Wenn ein Projekt nicht abrechenbar ist, dann können auf das Projekt gebuchte Ze
 Projekte, die nicht abrechenbar sind, tauchen auch nicht im Rechnungsmodul auf.
 
 Die Standardeinstellung ist, dass Projekte abrechenbar sind.
+
+### Überbuchbar
+
+Projekte können optional so konfiguriert werden, dass Überbuchungen erlaubt sind.
+Standardmäßig sind Überbuchungen nicht erlaubt und ZEIT.IO stellt sicher, dass alle Budgets eingehalten werden.
+Wenn eine Buchung das Stundenbudget oder eines der Währungs-Budgets überschreitet, dann wird die Buchung abgelehnt.
+Ist allerdings die Checkbox für "Überbuchungen erlauben" aktiviert, dann können die Budgets auch überschritten werden.
