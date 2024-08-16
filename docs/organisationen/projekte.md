@@ -185,10 +185,17 @@ Diese Felder sind nur für Personen sichtbar, die Leserechte auf Projekte und da
 
 Dynamische Felder können jederzeit hinzugefügt, geändert oder gelöscht werden.
 
-### Kommentare Zeiterfassung verpflichtend
+### Kommentare in der Zeiterfassung verpflichtend
 
 Projekte können optional so konfiguriert werden, dass bei der Zeiterfassung ein Kommentar verpflichtend ist.
 Dies ist auch die Standardeinstellung.
+
+### Start- und Stop-Zeiten in der Zeiterfassung verpflichtend
+
+Projekte können optional so konfiguriert werden, dass bei der Zeiterfassung die Start- und Stoppzeiten verpflichtend sind.
+Wenn dies eingestellt ist, dann müssen bei der Zeiterfassung immer Start- und Stoppzeiten angegeben werden.
+Somit sind bestimmte Formulare für die Zeiterfassung nicht verfügbar. Die Projektzeiten müssen somit immer
+über den Timer oder über den Kalender erfasst werden.
 
 ### Abrechenbar
 

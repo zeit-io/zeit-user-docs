@@ -194,6 +194,13 @@ Dynamic fields can be added, changed or deleted at any time.
 Projects can optionally be configured to require a comment when tracking time.
 This is also the default setting.
 
+### Start and stop times are mandatory in time recording
+
+Projects can optionally be configured so that start and stop times are mandatory in time recording.
+If this is set, start and stop times must always be specified in time recording.
+This means that certain forms for time recording are not available. The project times must therefore always be recorded
+via the timer or the calendar.
+
 ### Billable
 
 Projects can be configured to be billable.
