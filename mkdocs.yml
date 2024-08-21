@@ -51,6 +51,13 @@ nav:
     - rechnungsausgang: "organisationen/rechnungsausgang.en.md"
     - orga-einstellungen: "organisationen/orga-einstellungen.md"
     - orga-einstellungen: "organisationen/orga-einstellungen.en.md"
+  - integrations:
+    - common: 'integrations/index.md'
+    - common: 'integrations/index.en.md'
+    - google: 'integrations/google.md'
+    - google: 'integrations/google.en.md'
+    - microsoft: 'integrations/microsoft.md'
+    - microsoft: 'integrations/microsoft.en.md'
 
 markdown_extensions:
   - admonition
@@ -127,6 +134,9 @@ plugins:
           autoinvoicing: "Auto-Ausgangsrechnungen"
           rechnungsausgang: "Rechnungsausgang"
           orga-einstellungen: "Organisationseinstellungen"
+          integrations: "Integrationen"
+          google: "Google"
+          microsoft: "Microsoft"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -148,3 +158,6 @@ plugins:
           autoinvoicing: "Auto-invoicing"
           rechnungsausgang: "Outgoing invoices"
           orga-einstellungen: "Organisation settings"
+          integrations: "Integrations"
+          google: "Google"
+          microsoft: "Microsoft"
