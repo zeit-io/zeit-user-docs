@@ -3,6 +3,8 @@
 Google is not only a search engine, but also a cloud provider.
 With [Google Workspace](https://workspace.google.com/business/), Google offers a cloud-based office suite, including email accounts, user management and much more.
 
+## Google SSO
+
 You can log in to ZEIT.IO with your existing Google account.
 To do this, simply navigate to the [ZEIT.IO login page](https://zeit.io/de/signin) and click on the "Sign in with Google" button.
 You will then be redirected to Google and asked if you want to give ZEIT.IO access to your profile information.
