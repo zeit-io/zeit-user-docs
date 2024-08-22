@@ -49,6 +49,8 @@ nav:
     - autoinvoicing: "organisationen/auto-invoicing.en.md"
     - rechnungsausgang: "organisationen/rechnungsausgang.md"
     - rechnungsausgang: "organisationen/rechnungsausgang.en.md"
+    - rechnungsartikel: "organisationen/rechnungsartikel.md"
+    - rechnungsartikel: "organisationen/rechnungsartikel.en.md"
     - orga-einstellungen: "organisationen/orga-einstellungen.md"
     - orga-einstellungen: "organisationen/orga-einstellungen.en.md"
   - integrations:
@@ -137,6 +139,7 @@ plugins:
           integrations: "Integrationen"
           google: "Google"
           microsoft: "Microsoft"
+          rechnungsartikel: "Rechnungsartikel"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -161,3 +164,4 @@ plugins:
           integrations: "Integrations"
           google: "Google"
           microsoft: "Microsoft"
+          rechnungsartikel: "Invoice items"
