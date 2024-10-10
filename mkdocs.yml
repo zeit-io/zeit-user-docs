@@ -60,6 +60,12 @@ nav:
     - google: 'integrations/google.en.md'
     - microsoft: 'integrations/microsoft.md'
     - microsoft: 'integrations/microsoft.en.md'
+    - chrome_extension: 'integrations/chrome.md'
+    - chrome_extension: 'integrations/chrome.en.md'
+    - firefox_addon: 'integrations/firefox.md'
+    - firefox_addon: 'integrations/firefox.en.md'
+    - edge_addon: 'integrations/edge.md'
+    - edge_addon: 'integrations/edge.en.md'
 
 markdown_extensions:
   - admonition
@@ -140,6 +146,9 @@ plugins:
           google: "Google"
           microsoft: "Microsoft"
           rechnungsartikel: "Rechnungsartikel"
+          chrome_extension: "Chrome-Erweiterung"
+          firefox_addon: "Firefox-AddOn"
+          edge_addon: "Edge-AddOn"
         en:
           common: "Common"
           employee_context: "Employee context"
@@ -165,3 +174,6 @@ plugins:
           google: "Google"
           microsoft: "Microsoft"
           rechnungsartikel: "Invoice items"
+          chrome_extension: "Chrome-Extension"
+          firefox_addon: "Firefox-AddOn"
+          edge_addon: "Edge-AddOn"
