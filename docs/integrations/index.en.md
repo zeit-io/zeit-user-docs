@@ -10,3 +10,6 @@ In addition to the REST API, there are other integrations that are listed here:
 
  - [Google SSO](./google.en.md)
  - [Microsoft Entra SSO](./microsoft.en.md)
+ - [Firefox](./firefox.en.md)
+ - [Chrome](./chrome.en.md)
+ - [Edge](./edge.en.md)
