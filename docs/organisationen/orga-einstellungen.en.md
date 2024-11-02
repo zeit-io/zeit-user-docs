@@ -35,8 +35,77 @@ The information here is also used for the footer on outgoing invoices and credit
 ## Invoice number
 
 Here you can specify the format for the invoice number that should be used for outgoing invoices.
-
 Credit notes have their own number range that can be configured separately.
+
+### CONSEQUENTIAL NUMBER
+
+This option uses a consecutive number for the invoices.
+You can configure the current invoice number and the minimum length for the invoice number.
+If the current invoice number is less than the minimum length, then the number is padded with leading 0s.
+Here is an example. The current invoice number is 199 and the minimum length is set to 5.
+Then the next invoice number would be: `00200`.
+
+This format is always ongoing and is not reset at the end of the year!
+
+### PREFIX - CONSEQUENTIAL NUMBER
+
+This option corresponds to the format: `<PREFIX>-<CONSEQUENTIAL NUMBER>`.<br/>
+For example: `RE-123`.<br/>
+Here you can specify a prefix for the invoice number, the current number and the minimum length for the consecutive number.
+The invoice number is not reset at the end of the year! With this format, the number always continues consecutively.
+
+### CONSEQUENTIAL NUMBER/YEAR
+
+This option corresponds to the format: `<CONSEQUENTIAL NUMBER>/<YEAR>`.<br/>
+For example: `123/2025`.<br/>
+The consecutive number is reset at the end of the year and the year is inserted at the end of the invoice number.
+Invoices in the new year then start again with invoice number 1.
+As with the first option, you can specify both the current number and the minimum length for the consecutive number.
+
+### YEAR-CONSEQUENTIAL NUMBER
+
+This option corresponds to the format: `<YEAR>-<CONSEQUENTIAL NUMBER>`.<br/>
+For example: `2025-123`.<br/>
+The year is inserted at the front of the invoice number, followed by a consecutive number.
+The consecutive number is reset at the end of the year. Invoices in the new year then start again with invoice number 1.
+As with the first option, you can specify both the current number and the minimum length for the consecutive number.
+
+### YEAR MONTH DAY - DAY COUNTER
+
+This option corresponds to the format: `<YEAR><MONTH><DAY>-<DAY COUNTER>`.<br/>
+For example: `20250101-1`.<br/>
+The invoice number consists of the year, month, day and a sequential day counter.
+The day counter is reset every day. Invoices on the same day are then given the numbers 1, 2, 3, etc.
+As with the first option, you can specify both the current number and the minimum length for the sequential number.
+
+### YEAR MONTH - MONTHLY COUNTER
+
+This option corresponds to the format: `<YY><MONTH>-<MONTHLY COUNTER>`.<br/> 
+For example: `2501-1`.<br/>
+The invoice number consists of the year, the month and a consecutive month counter.
+The monthly counter is reset every month. Invoices in the same month are then given the numbers 1, 2, 3, etc.
+As with the first option, you can specify both the current number and the minimum length for the consecutive number.
+
+### PREFIX-YEAR-CONSEQUENTIAL-NUMBER
+
+This option corresponds to the format: `<PREFIX>-<YEAR>-<CONSEQUENTIAL-NUMBER>`.<br/> 
+For example: `RE-2025-123`.<br/>
+Here you can specify a prefix for the invoice number, the current number and the minimum length for the consecutive number.
+The year is always set automatically! The consecutive invoice number is reset at the end of the year!
+
+### PREFIX-YY-CONSEQUENTIAL-NUMBER
+
+This option corresponds to the format: `<PREFIX>-<YY>-<CONSEQUENTIAL-NUMBER>`.<br/> 
+So, for example: `RE-25-123`.<br/>
+Here you can specify a prefix for the invoice number, the current number and the minimum length for the consecutive number.
+The year is always set automatically! The consecutive invoice number is reset at the end of the year!
+
+### PREFIX-YYCONSEQUENTIAL-NUMBER
+
+This option corresponds to the format: `<PREFIX>-<YY><CONSEQUENTIAL-NUMBER>`.<br/> 
+So, for example: `RE-25123`.<br/>
+Here you can specify a prefix for the invoice number, the current number and the minimum length for the consecutive number.
+The year is always set automatically! The consecutive invoice number is reset at the end of the year!
 
 ## Credit note number
 

@@ -36,6 +36,80 @@ Die Angaben hier werden auch verwendet für den Footer auf Ausgangsrechnungen un
 
 Hier können Sie das Format für die Rechnungsnummer festlegen, welches für Ausgangsrechnungen verwendet werden soll.
 Gutschriften haben einen eigenen Nummernkreis, der separat konfiguriert werden kann.
+Hier nachfolgend sind die möglichen Optionen beschrieben:
+
+### FORTLAUFENDE-NUMMER
+
+Diese Option entspricht dem Format: `<FORTLAUFENDE-NUMMER>`.<br/> 
+Also z.B.: `123`.<br/>
+Bei dieser Option wird eine fortlaufende Nummer für die Rechnungen verwendet.
+Sie können die aktuelle Rechnungsnummer konfigurieren und die Mindestlänge für die Rechnungsnummer.
+Wenn die aktuelle Rechnungsnummer kleiner ist als die Mindestlänge, dann wird die Nummer mit führenden 0en aufgefüllt.
+Hier ein Beispiel. Die aktuelle Rechnungsnummer ist z.B. 199 und als Mindestlänge ist 5 eingestellt.
+Dann wäre die nächste Rechnungsnummer: `00200`.
+
+Dieses Format ist immer fortlaufend und wird auch am Jahresende nicht zurückgesetzt!
+
+###  PREFIX - FORTLAUFENDE-NUMMER
+
+Diese Option entspricht dem Format: `<PREFIX>-<FORTLAUFENDE-NUMMER>`.<br/>
+Also z.B.: `RE-123`.<br/>
+Sie können hier ein Präfix für die Rechnungsnummer festlegen, die aktuelle Nummer und die Mindestlänge für die fortlaufende Nummer.
+Die Rechnungsnummer wird am Jahresende nicht zurückgesetzt! Bei diesem Format läuft die Nummer immer fortlaufend weiter.
+
+###  FORTLAUFENDE-NUMMER/JAHR
+
+Diese Option entspricht dem Format: `<FORTLAUFENDE-NUMMER>/<JAHR>`.<br/>
+Also z.B.: `123/2025`.<br/>
+Die fortlaufende Nummer wird am Jahresende zurückgesetzt und das Jahr wird in der Rechnungsnummer hinten eingefügt.
+Rechnungen im neuen Jahr starten dann wieder mit der Rechnungsnummer 1.
+Wie auch bei der ersten Option, können Sie sowohl die aktuelle Nummer als auch die Mindestlänge für die fortlaufende Nummer festlegen.
+
+###  JAHR-FORTLAUFENDE-NUMMER
+
+Diese Option entspricht dem Format: `<JAHR>-<FORTLAUFENDE-NUMMER>`.<br/>
+Also z.B.: `2025-123`.<br/>
+Das Jahr wird vorne in der Rechnungsnummer eingefügt, gefolgt von einer fortlaufenden Nummer. 
+Die fortlaufende Nummer wird am Jahresende zurückgesetzt. Rechnungen im neuen Jahr starten dann wieder mit der Rechnungsnummer 1.
+Wie auch bei der ersten Option, können Sie sowohl die aktuelle Nummer als auch die Mindestlänge für die fortlaufende Nummer festlegen.
+
+###  JAHR MONAT TAG - TAGESZÄHLER
+
+Diese Option entspricht dem Format: `<JAHR><MONAT><TAG>-<TAGESZÄHLER>`.<br/> 
+Also z.B.: `20250101-1`.<br/>
+Die Rechnungsnummer besteht aus dem Jahr, dem Monat, dem Tag und einem fortlaufenden Tageszähler.
+Der Tageszähler wird jeden Tag zurückgesetzt. Rechnungen am gleichen Tag erhalten dann die Nummern 1, 2, 3, usw.
+Wie auch bei der ersten Option, können Sie sowohl die aktuelle Nummer als auch die Mindestlänge für die fortlaufende Nummer festlegen.
+
+### JAHR MONAT - MONATSZÄHLER
+
+Diese Option entspricht dem Format: `<JJ><MONAT>-<MONATSZÄHLER>`. <br/>
+Also z.B.: `2501-1`.<br/>
+Die Rechnungsnummer besteht aus dem Jahr, dem Monat und einem fortlaufenden Monatszähler.
+Der Monatszähler wird jeden Monat zurückgesetzt. Rechnungen im gleichen Monat erhalten dann die Nummern 1, 2, 3, usw.
+Wie auch bei der ersten Option, können Sie sowohl die aktuelle Nummer als auch die Mindestlänge für die fortlaufende Nummer festlegen.
+
+### PREFIX-JAHR-FORTLAUFENDE-NUMMER
+
+Diese Option entspricht dem Format: `<PREFIX>-<JAHR>-<FORTLAUFENDE-NUMMER>`.<br/> 
+Also z.B.: `RE-2025-123`.<br/>
+Sie können hier ein Präfix für die Rechnungsnummer festlegen, die aktuelle Nummer und die Mindestlänge für die fortlaufende Nummer.
+Das Jahr wird immer automatisch gesetzt! Die fortlaufende Rechnungsnummer wird am Jahresende zurückgesetzt!
+
+### PREFIX-JJ-FORTLAUFENDE-NUMMER
+
+Diese Option entspricht dem Format: `<PREFIX>-<JJ>-<FORTLAUFENDE-NUMMER>`.<br/> 
+Also z.B.: `RE-25-123`.<br/>
+Sie können hier ein Präfix für die Rechnungsnummer festlegen, die aktuelle Nummer und die Mindestlänge für die fortlaufende Nummer.
+Das Jahr wird immer automatisch gesetzt! Die fortlaufende Rechnungsnummer wird am Jahresende zurückgesetzt!
+
+### PREFIX-JJFORTLAUFENDE-NUMMER
+
+Diese Option entspricht dem Format: `<PREFIX>-<JJ><FORTLAUFENDE-NUMMER>`.<br/> 
+Also z.B.: `RE-25123`.<br/>
+Sie können hier ein Präfix für die Rechnungsnummer festlegen, die aktuelle Nummer und die Mindestlänge für die fortlaufende Nummer.
+Das Jahr wird immer automatisch gesetzt! Die fortlaufende Rechnungsnummer wird am Jahresende zurückgesetzt!
+
 
 ## Gutschriftsnummer
 

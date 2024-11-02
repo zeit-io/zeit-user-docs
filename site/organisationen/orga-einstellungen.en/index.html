@@ -985,6 +985,93 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Invoice number">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      CONSEQUENTIAL NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prefix-consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      PREFIX - CONSEQUENTIAL NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#consequential-numberyear" class="md-nav__link">
+    <span class="md-ellipsis">
+      CONSEQUENTIAL NUMBER/YEAR
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#year-consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      YEAR-CONSEQUENTIAL NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#year-month-day-day-counter" class="md-nav__link">
+    <span class="md-ellipsis">
+      YEAR MONTH DAY - DAY COUNTER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#year-month-monthly-counter" class="md-nav__link">
+    <span class="md-ellipsis">
+      YEAR MONTH - MONTHLY COUNTER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prefix-year-consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      PREFIX-YEAR-CONSEQUENTIAL-NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prefix-yy-consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      PREFIX-YY-CONSEQUENTIAL-NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prefix-yyconsequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      PREFIX-YYCONSEQUENTIAL-NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -1339,6 +1426,93 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Invoice number">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      CONSEQUENTIAL NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prefix-consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      PREFIX - CONSEQUENTIAL NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#consequential-numberyear" class="md-nav__link">
+    <span class="md-ellipsis">
+      CONSEQUENTIAL NUMBER/YEAR
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#year-consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      YEAR-CONSEQUENTIAL NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#year-month-day-day-counter" class="md-nav__link">
+    <span class="md-ellipsis">
+      YEAR MONTH DAY - DAY COUNTER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#year-month-monthly-counter" class="md-nav__link">
+    <span class="md-ellipsis">
+      YEAR MONTH - MONTHLY COUNTER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prefix-year-consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      PREFIX-YEAR-CONSEQUENTIAL-NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prefix-yy-consequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      PREFIX-YY-CONSEQUENTIAL-NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prefix-yyconsequential-number" class="md-nav__link">
+    <span class="md-ellipsis">
+      PREFIX-YYCONSEQUENTIAL-NUMBER
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -1495,8 +1669,59 @@ It is possible that after a name change, old links (URLs) to reports within this
 </ul>
 <p>The information here is also used for the footer on outgoing invoices and credit notes created by ZEIT.IO.</p>
 <h2 id="invoice-number">Invoice number</h2>
-<p>Here you can specify the format for the invoice number that should be used for outgoing invoices.</p>
-<p>Credit notes have their own number range that can be configured separately.</p>
+<p>Here you can specify the format for the invoice number that should be used for outgoing invoices.
+Credit notes have their own number range that can be configured separately.</p>
+<h3 id="consequential-number">CONSEQUENTIAL NUMBER</h3>
+<p>This option uses a consecutive number for the invoices.
+You can configure the current invoice number and the minimum length for the invoice number.
+If the current invoice number is less than the minimum length, then the number is padded with leading 0s.
+Here is an example. The current invoice number is 199 and the minimum length is set to 5.
+Then the next invoice number would be: <code>00200</code>.</p>
+<p>This format is always ongoing and is not reset at the end of the year!</p>
+<h3 id="prefix-consequential-number">PREFIX - CONSEQUENTIAL NUMBER</h3>
+<p>This option corresponds to the format: <code>&lt;PREFIX&gt;-&lt;CONSEQUENTIAL NUMBER&gt;</code>.<br/>
+For example: <code>RE-123</code>.<br/>
+Here you can specify a prefix for the invoice number, the current number and the minimum length for the consecutive number.
+The invoice number is not reset at the end of the year! With this format, the number always continues consecutively.</p>
+<h3 id="consequential-numberyear">CONSEQUENTIAL NUMBER/YEAR</h3>
+<p>This option corresponds to the format: <code>&lt;CONSEQUENTIAL NUMBER&gt;/&lt;YEAR&gt;</code>.<br/>
+For example: <code>123/2025</code>.<br/>
+The consecutive number is reset at the end of the year and the year is inserted at the end of the invoice number.
+Invoices in the new year then start again with invoice number 1.
+As with the first option, you can specify both the current number and the minimum length for the consecutive number.</p>
+<h3 id="year-consequential-number">YEAR-CONSEQUENTIAL NUMBER</h3>
+<p>This option corresponds to the format: <code>&lt;YEAR&gt;-&lt;CONSEQUENTIAL NUMBER&gt;</code>.<br/>
+For example: <code>2025-123</code>.<br/>
+The year is inserted at the front of the invoice number, followed by a consecutive number.
+The consecutive number is reset at the end of the year. Invoices in the new year then start again with invoice number 1.
+As with the first option, you can specify both the current number and the minimum length for the consecutive number.</p>
+<h3 id="year-month-day-day-counter">YEAR MONTH DAY - DAY COUNTER</h3>
+<p>This option corresponds to the format: <code>&lt;YEAR&gt;&lt;MONTH&gt;&lt;DAY&gt;-&lt;DAY COUNTER&gt;</code>.<br/>
+For example: <code>20250101-1</code>.<br/>
+The invoice number consists of the year, month, day and a sequential day counter.
+The day counter is reset every day. Invoices on the same day are then given the numbers 1, 2, 3, etc.
+As with the first option, you can specify both the current number and the minimum length for the sequential number.</p>
+<h3 id="year-month-monthly-counter">YEAR MONTH - MONTHLY COUNTER</h3>
+<p>This option corresponds to the format: <code>&lt;YY&gt;&lt;MONTH&gt;-&lt;MONTHLY COUNTER&gt;</code>.<br/> 
+For example: <code>2501-1</code>.<br/>
+The invoice number consists of the year, the month and a consecutive month counter.
+The monthly counter is reset every month. Invoices in the same month are then given the numbers 1, 2, 3, etc.
+As with the first option, you can specify both the current number and the minimum length for the consecutive number.</p>
+<h3 id="prefix-year-consequential-number">PREFIX-YEAR-CONSEQUENTIAL-NUMBER</h3>
+<p>This option corresponds to the format: <code>&lt;PREFIX&gt;-&lt;YEAR&gt;-&lt;CONSEQUENTIAL-NUMBER&gt;</code>.<br/> 
+For example: <code>RE-2025-123</code>.<br/>
+Here you can specify a prefix for the invoice number, the current number and the minimum length for the consecutive number.
+The year is always set automatically! The consecutive invoice number is reset at the end of the year!</p>
+<h3 id="prefix-yy-consequential-number">PREFIX-YY-CONSEQUENTIAL-NUMBER</h3>
+<p>This option corresponds to the format: <code>&lt;PREFIX&gt;-&lt;YY&gt;-&lt;CONSEQUENTIAL-NUMBER&gt;</code>.<br/> 
+So, for example: <code>RE-25-123</code>.<br/>
+Here you can specify a prefix for the invoice number, the current number and the minimum length for the consecutive number.
+The year is always set automatically! The consecutive invoice number is reset at the end of the year!</p>
+<h3 id="prefix-yyconsequential-number">PREFIX-YYCONSEQUENTIAL-NUMBER</h3>
+<p>This option corresponds to the format: <code>&lt;PREFIX&gt;-&lt;YY&gt;&lt;CONSEQUENTIAL-NUMBER&gt;</code>.<br/> 
+So, for example: <code>RE-25123</code>.<br/>
+Here you can specify a prefix for the invoice number, the current number and the minimum length for the consecutive number.
+The year is always set automatically! The consecutive invoice number is reset at the end of the year!</p>
 <h2 id="credit-note-number">Credit note number</h2>
 <p>Here you can specify the format for the credit note number that should be used for credit notes.</p>
 <h2 id="bank-details">Bank details</h2>
