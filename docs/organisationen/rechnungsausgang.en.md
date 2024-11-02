@@ -85,3 +85,23 @@ The file can therefore also contain more lines than the table on the website.
 
 The file corresponds to the [DATEV booking stack format](https://developer.datev.de/datev/platform/de/dtvf/formate/buchungsstapel) and contains all the necessary information for accounting.
 The DATEV CSV file can then be imported into your accounting software.
+
+## FAQs
+
+### Which email address are the invoices sent from?
+
+By default, the invoices are sent from the email address `noreply@zeit.io`.
+This email is also protected by SPF and DKIM.
+The name of your organization always appears as the sender name. Like here, for example:
+
+```
+Muster-Organisations GmbH <noreply@zeit.io>
+```
+
+To ensure that the invoices reach the recipient, you should still inform the recipients
+that you are using ZEIT.IO as your new invoice creation tool and that future invoices will come from the email address noreply@zeit.io.
+
+### How can I cancel an invoice?
+
+An invoice can only be canceled if it has not yet been paid.
+To do this, click on the invoice you want to cancel and then on "Cancel" under "Actions" at the top right.

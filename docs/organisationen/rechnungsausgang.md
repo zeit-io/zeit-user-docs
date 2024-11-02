@@ -84,3 +84,24 @@ Deshalb kann die Datei auch mehr Zeilen enthalten als die Tabelle auf der Websei
 
 Die Datei entspricht dem [DATEV Buchungsstapel Format](https://developer.datev.de/datev/platform/de/dtvf/formate/buchungsstapel) und enthält alle notwendigen Informationen für die Buchhaltung.
 Die DATEV CSV Datei kann dann in Ihre Buchhaltungssoftware importiert werden.
+
+## FAQs
+
+### Von welcher E-Mail-Adresse werden die Rechnungen versendet?
+
+Standardmäßig werden die Rechnungen von der E-Mail-Adresse `noreply@zeit.io` versendet. 
+Diese E-Mail ist auch durch SPF und DKIM geschützt. 
+Als Absendername erscheint immer der Name ihrer Organisation. Wie hier zum Beispiel:
+
+```
+Muster-Organisations GmbH <noreply@zeit.io>
+```
+
+Um sicherzustellen, dass die Rechnungen beim Empfänger ankommen, sollten Sie dennoch die Empfänger darüber informieren, 
+dass Sie ZEIT.IO als neues Rechnungserstellungs-Tool verwenden und dass zukünftige Rechnungen von der E-Mail-Adresse noreply@zeit.io kommen werden.
+
+### Wie kann ich eine Rechnung stornieren?
+
+Eine Rechnung kann nur storniert werden, wenn sie noch nicht bezahlt wurde. 
+Dafür klicken Sie auf die Rechnung, die Sie stornieren möchten, und dann bei den "Aktionen" rechts oben, auf "Stornieren".
+
