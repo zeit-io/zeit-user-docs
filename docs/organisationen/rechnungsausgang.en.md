@@ -99,7 +99,7 @@ Muster-Organisations GmbH <noreply@zeit.io>
 ```
 
 To ensure that the invoices reach the recipient, you should still inform the recipients
-that you are using ZEIT.IO as your new invoice creation tool and that future invoices will come from the email address noreply@zeit.io.
+that you are using ZEIT.IO as your new invoice creation tool and that future invoices will come from the email address `noreply@zeit.io`.
 
 ### How can I cancel an invoice?
 

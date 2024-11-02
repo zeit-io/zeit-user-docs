@@ -98,7 +98,7 @@ Muster-Organisations GmbH <noreply@zeit.io>
 ```
 
 Um sicherzustellen, dass die Rechnungen beim Empfänger ankommen, sollten Sie dennoch die Empfänger darüber informieren, 
-dass Sie ZEIT.IO als neues Rechnungserstellungs-Tool verwenden und dass zukünftige Rechnungen von der E-Mail-Adresse noreply@zeit.io kommen werden.
+dass Sie ZEIT.IO als neues Rechnungserstellungs-Tool verwenden und dass zukünftige Rechnungen von der E-Mail-Adresse `noreply@zeit.io` kommen werden.
 
 ### Wie kann ich eine Rechnung stornieren?
 
