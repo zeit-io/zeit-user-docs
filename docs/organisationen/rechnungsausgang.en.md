@@ -165,6 +165,7 @@ The list of preselected units is documented here:
 | **LE**        | HUR  | Leistungseinheit |
 | **Stk.**      | H87  | Stück            |
 | **Unit**      | C62  | Unit/Einheit     |
+| **Lump sum**  | LS   | Lump sum         |
 | **Km**        | KMT  | Kilometer        |
 | **Kg**        | KGM  | Kilogramm        |
 | **m**         | MTR  | Meter            |
@@ -172,6 +173,7 @@ The list of preselected units is documented here:
 | **m³**        | MTK  | Kubikmeter       |
 | **L**         | LTR  | Liter            |
 | **T**         | TNE  | Tonne            |
+
 
 ## CSV Export
 

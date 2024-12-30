@@ -167,6 +167,7 @@ Hier ist die Liste der vorausgewählten Einheiten dokumentiert:
 | **LE**        | HUR  | Leistungseinheit |
 | **Stk.**      | H87  | Stück            |
 | **Unit**      | C62  | Unit/Einheit     |
+| **Pauschal**  | LS   | Pauschalbetrag   |
 | **Km**        | KMT  | Kilometer        |
 | **Kg**        | KGM  | Kilogramm        |
 | **m**         | MTR  | Meter            |
