@@ -177,6 +177,22 @@ Hier ist die Liste der vorausgewählten Einheiten dokumentiert:
 | **T**         | TNE  | Tonne            |
 
 
+
+## Steuerkategorien
+
+Auf einer E-Rechnung nach EN 16931 muss jede Position einer Steuerkategorie zugeordnet sein.
+Die zugelassenen Steuerkategorien sind hier erklärt:
+
+- **S: Standard USt-Satz**: Diese Steuerkategorie entspricht der Standard-Umsatzsteuer. Wenn diese Kategorie ausgewählt ist, dann muss ein Steuersatz größer 0 ausgewiesen sein!
+- **Z: USt-Satz von Null**: Diese Kategorie ist auszuwählen, wenn auf die besagte Position keine Steuern anfallen. Dieser Fall gilt nicht für Frankreich, wo es keinen Umsatzsteuerteuersatz von 0-Prozent gibt.
+- **E: USt-befreit („exempt“)**: Dieser Code ist zu verwenden, wenn kein anderer Fall für fehlende USt zutrifft. Der Grund für die Steuerbefreiung ist in der Umsatzsteueraufstellung unter Bezugnahme auf die anwendbare Steuervorschrift anzugeben.
+- **AE: Steuerumkehrung**: Dies trifft zu, wo der Kunde die USt zu melden und der Steuerbehörde direkt zu entrichten hat (normalerweise ziehen sie die gleiche USt gleichzeitig ab). Der Grund für die Steuerbefreiung muss in der USt-Aufschlüsselung als „Steuerumkehrung“ benannt werden.
+- **K: Steuerumkehrung bei innergemeinschaftlicher Lieferung**: Dies ist das gleiche Verfahren der Steuerumkehrung wie zuvor, allerdings aufgrund einer innergemeinschaftlichen Lieferung. Daher muss der Code „K“ anstelle von „AE“ verwendet werden. Der in der Umsatzsteueraufstellung anzugebende Grund für das Fehlen der Umsatzsteuer ist „innergemeinschaftliche Lieferung“.
+- **G: Umsatzsteuerbefreit**: Dieser USt-Code wird für Lieferungen in Länder außerhalb der Europäischen Gemeinschaft verwendet.
+- **O: Außerhalb des Gültigkeitsbereichs der USt.**: In einem solchen Fall dürfen keine anderen USt- Kategorien in der Rechnung angegeben werden.
+- **L (IGIC) und M (IPSI): USt-Codes für die Kanarischen Inseln und Ceuta/Melilla.**: Diese Codes sind für die Kanarischen Inseln und Ceuta/Melilla zu verwenden. Die USt-Nummer des Empfängers muss in der Rechnung angegeben werden. Dieser Code ist nicht anwendbar auf Frankreich oder Deutschland.
+
+
 ## CSV Export
 
 Unterhalb der Tabelle auf der rechten Seite gibt es einen Link "CSV Export".

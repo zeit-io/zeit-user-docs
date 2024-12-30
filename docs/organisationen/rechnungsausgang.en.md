@@ -175,6 +175,21 @@ The list of preselected units is documented here:
 | **T**         | TNE  | Tonne            |
 
 
+## Tax categories
+
+On an e-invoice according to EN 16931, each item must be assigned to a tax category.
+The permitted tax categories are explained here:
+
+- **S: Standard VAT rate**: This tax category corresponds to the standard VAT. If this category is selected, then a tax rate greater than 0 must be shown!
+- **Z: Zero VAT rate**: This category must be selected if no taxes are due on the item in question. This case does not apply to France, where there is no 0 percent VAT rate.
+- **E: VAT exempt**: This code must be used if no other case for missing VAT applies. The reason for the tax exemption must be stated in the VAT statement with reference to the applicable tax regulation.
+- **AE: Inversion tax**: This applies where the customer has to declare the VAT and pay it directly to the tax authorities (normally they deduct the same VAT at the same time). The reason for the exemption must be indicated as "inversion" in the VAT breakdown.
+- **K: Inversion for intra-community supply**: This is the same inversion procedure as before, but due to an intra-community supply. Therefore, the code "K" must be used instead of "AE". The reason for the absence of VAT to be indicated in the VAT statement is "intra-community supply".
+- **G: VAT exempt**: This VAT code is used for supplies to countries outside the European Community.
+- **O: Outside the scope of VAT**: In such a case, no other VAT categories may be indicated on the invoice.
+- **L (IGIC) and M (IPSI): VAT codes for the Canary Islands and Ceuta/Melilla.**: These codes must be used for the Canary Islands and Ceuta/Melilla. The recipient's VAT number must be indicated on the invoice. This code is not applicable to France or Germany.
+
+
 ## CSV Export
 
 Below the table on the right-hand side there is a link "CSV Export".

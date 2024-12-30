@@ -1102,6 +1102,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#steuerkategorien" class="md-nav__link">
+    <span class="md-ellipsis">
+      Steuerkategorien
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#csv-export" class="md-nav__link">
     <span class="md-ellipsis">
       CSV Export
@@ -1597,6 +1606,15 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#steuerkategorien" class="md-nav__link">
+    <span class="md-ellipsis">
+      Steuerkategorien
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#csv-export" class="md-nav__link">
     <span class="md-ellipsis">
       CSV Export
@@ -1864,6 +1882,19 @@ Hier ist die Liste der vorausgewählten Einheiten dokumentiert:</p>
 </tr>
 </tbody>
 </table>
+<h2 id="steuerkategorien">Steuerkategorien</h2>
+<p>Auf einer E-Rechnung nach EN 16931 muss jede Position einer Steuerkategorie zugeordnet sein.
+Die zugelassenen Steuerkategorien sind hier erklärt:</p>
+<ul>
+<li><strong>S: Standard USt-Satz</strong>: Diese Steuerkategorie entspricht der Standard-Umsatzsteuer. Wenn diese Kategorie ausgewählt ist, dann muss ein Steuersatz größer 0 ausgewiesen sein!</li>
+<li><strong>Z: USt-Satz von Null</strong>: Diese Kategorie ist auszuwählen, wenn auf die besagte Position keine Steuern anfallen. Dieser Fall gilt nicht für Frankreich, wo es keinen Umsatzsteuerteuersatz von 0-Prozent gibt.</li>
+<li><strong>E: USt-befreit („exempt“)</strong>: Dieser Code ist zu verwenden, wenn kein anderer Fall für fehlende USt zutrifft. Der Grund für die Steuerbefreiung ist in der Umsatzsteueraufstellung unter Bezugnahme auf die anwendbare Steuervorschrift anzugeben.</li>
+<li><strong>AE: Steuerumkehrung</strong>: Dies trifft zu, wo der Kunde die USt zu melden und der Steuerbehörde direkt zu entrichten hat (normalerweise ziehen sie die gleiche USt gleichzeitig ab). Der Grund für die Steuerbefreiung muss in der USt-Aufschlüsselung als „Steuerumkehrung“ benannt werden.</li>
+<li><strong>K: Steuerumkehrung bei innergemeinschaftlicher Lieferung</strong>: Dies ist das gleiche Verfahren der Steuerumkehrung wie zuvor, allerdings aufgrund einer innergemeinschaftlichen Lieferung. Daher muss der Code „K“ anstelle von „AE“ verwendet werden. Der in der Umsatzsteueraufstellung anzugebende Grund für das Fehlen der Umsatzsteuer ist „innergemeinschaftliche Lieferung“.</li>
+<li><strong>G: Umsatzsteuerbefreit</strong>: Dieser USt-Code wird für Lieferungen in Länder außerhalb der Europäischen Gemeinschaft verwendet.</li>
+<li><strong>O: Außerhalb des Gültigkeitsbereichs der USt.</strong>: In einem solchen Fall dürfen keine anderen USt- Kategorien in der Rechnung angegeben werden.</li>
+<li><strong>L (IGIC) und M (IPSI): USt-Codes für die Kanarischen Inseln und Ceuta/Melilla.</strong>: Diese Codes sind für die Kanarischen Inseln und Ceuta/Melilla zu verwenden. Die USt-Nummer des Empfängers muss in der Rechnung angegeben werden. Dieser Code ist nicht anwendbar auf Frankreich oder Deutschland.</li>
+</ul>
 <h2 id="csv-export">CSV Export</h2>
 <p>Unterhalb der Tabelle auf der rechten Seite gibt es einen Link "CSV Export".
 Mit diesem Link können Sie die aktuelle Tabelle für die Ausgangsrechnungen als CSV Datei herunterladen.
