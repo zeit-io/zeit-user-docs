@@ -107,7 +107,7 @@ The form looks like this:
 
 !!! Info
     In this form, exactly one time recording is always recorded per project/task and day.
-    If you want to record multiple time recordings per day and project/task, then you must
+    If you want to record multiple time recordings for the exact same day and project/task, then you must
     use the timer or calendar and also specify start and stop times.
 
 ## Daily form

@@ -110,7 +110,7 @@ Damit öffnet sich das Stunden-Formular. Hier können Sie im Kalender ein Datum 
 
 !!! Info
     In diesem Formular wird immer genau eine Zeitaufzeichnung pro Projekt/Task und Tag erfasst.
-    Wenn Sie mehrere Zeitaufzeichnungen pro Tag und Project/Tasks erfassen wollen, dann müssen Sie
+    Wenn Sie mehrere Zeitaufzeichnungen auf den exakt gleichen Tag und Project/Tasks erfassen wollen, dann müssen Sie
     den Timer oder Kalender benutzen und auch Start- und Stoppzeiten mit angeben.
 
 ## Tages-Formular
